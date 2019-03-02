@@ -84,7 +84,7 @@ author:
   avatar           : "jonas.jpeg"
   bio              : "PhD student, Applied Mathematics"
   location         : "Munich, Germany"
-  employer         : "Technische Universität München"
+  employer         : "Technical University of Munich"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CjgdvUkAAAAJ&hl=en"
   email            :
@@ -224,7 +224,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
