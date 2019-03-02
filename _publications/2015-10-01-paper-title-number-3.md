@@ -6,5 +6,5 @@ excerpt: ' Gaussian random fields are popular models for spatially varying uncer
 date: 2015-10-01
 venue: 'Comput. Methods in Appl. Mech. Engrg.'
 paperurl: 'https://doi.org/10.1016/j.cma.2019.02.003'
-citation: 'Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann. (2019). &quot;Paper Title Number 3.&quot; <i>Comput. Methods in Appl. Mech. Engrg.</i>. 348, p. 978-1012.'
+citation: 'Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann. (2019). &quot;Fast Sampling of parameterised Gaussian random fields.&quot; <i>Comput. Methods in Appl. Mech. Engrg.</i>. 348, p. 978-1012.'
 ---
