@@ -4,7 +4,7 @@ collection: publications
 permalink: _publications/2019-02-15-paper-title-number-3
 excerpt: ' Gaussian random fields are popular models for spatially varying uncertainties, arising for instance in geotechnical engineering, hydrology or image processing. A Gaussian random field is fully characterised by'
 date: 2019-02-15
-venue: 'Comput. Methods in Appl. Mech. Engrg.'
+venue: 'Computer Methods in Applied Mechanics and Engineering'
 paperurl: 'https://doi.org/10.1016/j.cma.2019.02.003'
 citation: 'Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann. (2019). &quot;Fast Sampling of parameterised Gaussian random fields.&quot; <i>Comput. Methods in Appl. Mech. Engrg.</i>. 348, p. 978-1012.'
 ---
