@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jonas Latz"
-  avatar           : "profile.png"
+  avatar           : "jonas.jpeg"
   bio              : "PhD student, Applied Mathematics"
   location         : "Munich, Germany"
   employer         : "Technische Universität München"
@@ -105,7 +105,7 @@ author:
   orcid            : "http://orcid.org/0000-0002-4600-0247"
   pinterest        :
   soundcloud       :
-  stackoverflow    :  http://stackoverflow.com/users/382832/jonas
+  stackoverflow    : "http://stackoverflow.com/users/382832/jonas"
   steam            :
   tumblr           :
   twitter          : 
