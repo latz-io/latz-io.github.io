@@ -2,7 +2,7 @@
 title: "On the well-posedness of Bayesian inverse problems"
 collection: publications
 permalink: /publication/2019-03-01-wellposed
-excerpt:  'The subject of this article is the introduction of a weaker concept of well-posedness of Bayesian inverse problems. The conventional concept of (`Lipschitz') well-posedness in [Stuart 2010, Acta Numerica 19, pp. 451-559] is difficult to verify in practice, especially when considering blackbox models, and probably too strong in many contexts. Our concept replaces the Lipschitz continuity'
+excerpt:  'The subject of this article is the introduction of a weaker concept of well-posedness of Bayesian inverse problems. The conventional concept of (Lipschitz) well-posedness in [Stuart 2010, Acta Numerica 19, pp. 451-559] is difficult to verify in practice, especially when considering blackbox models, and probably too strong in many contexts. Our concept replaces the Lipschitz continuity'
 date: 2019-03-01
 venue: 'ArXiv e-prints'
 paperurl: 'https://arxiv.org/abs/1902.10257'
