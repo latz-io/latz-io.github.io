@@ -25,7 +25,10 @@ J. Comput. Phys. 368, p. 154-178, DOI. (Abstract, .bib, arXiv)
 
 The identification of parameters in mathematical models using noisy observations is a common task in uncertainty quantification. We employ the framework of Bayesian inversion: we combine monitoring and observational data with prior information to estimate the posterior distribution of a parameter. Specifically, we are interested in the distribution of a diffusion coefficient of an elliptic PDE. In this setting, the sample space is high-dimensional, and each sample of the PDE solution is expensive. To address these issues we propose and analyse a novel Sequential Monte Carlo (SMC) sampler for the approximation of the posterior distribution. Classical, single-level SMC constructs a sequence of measures, starting with the prior distribution, and finishing with the posterior distribution. The intermediate measures arise from a tempering of the liklihood, or, equivalently, a rescaling of the noise. The resolution of the PDE discretisation is fixed. In contrast, our estimator employs a hierarchy of PDE discretisations to decrease the computational cost. We construct a sequence of intermediate measures by decreasing the temperature or by increasing the discretisation level at the same time. This idea builds on and generalises the multi-resolution sampler proposed in [P.S. Koutsourelakis, J. Comput. Phys., 228 (2009), pp. 6184-6211] where a bridging scheme is used to transfer samples from coarse to fine discretisation levels. Importantly, our choice between tempering and bridging is fully adaptive. We present numerical experiments in 2D space, comparing our estimator to single-level SMC and the multi-resolution sampler.
 </details>
+
+
 ___
+
 ### Refereed book chapters
 
 [1] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018)  
