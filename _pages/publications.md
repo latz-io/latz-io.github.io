@@ -26,10 +26,8 @@ ___
 
 [1] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018)  
 **A practical example for the non-linear Bayesian filtering of model parameters**  
-*Accepted.* (github, Abstract, .bib, arXiv). 
-<details>
+*Accepted.* (github, Abstract, .bib, arXiv) <details>
 <summary>Abstract</summary>
-<br>
 In this tutorial we consider the non-linear Bayesian filtering of static parameters in a time-dependent model. We outline the theoretical background and discuss appropriate solvers. We focus on particle-based filters and present Sequential Importance Sampling (SIS) and Sequential Monte Carlo (SMC). Throughout the paper we illustrate the concepts and techniques with a practical example using real-world data. The task is to estimate the gravitational acceleration of the Earth g by using observations collected from a simple pendulum. Importantly, the particle filters enable the adaptive updating of the estimate for g as new observations become available. For tutorial purposes we provide the data set and a Python implementation of the particle filters.
 </details>
 
