@@ -26,7 +26,8 @@ ___
 
 [1] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018)  
 **A practical example for the non-linear Bayesian filtering of model parameters**  
-*Accepted.* (github, Abstract, .bib, arXiv) <details>
+*Accepted.* (github, Abstract, .bib, arXiv) 
+<details>
 <summary>Abstract, .bib</summary>
  
 #### Abstract
