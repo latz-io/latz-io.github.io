@@ -12,10 +12,20 @@ ___
 [4] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019)  
 **Bayesian parameter identification in Cahn-Hilliard models for biological growth**  
 SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, DOI. (Abstract, .bib, arXiv)  
+<details>
+<summary>Abstract</summary>
+
+We consider the inverse problem of parameter estimation in a diffuse interface model for tumor growth. The model consists of a fourth-order Cahn--Hilliard system and contains three phenomenological parameters: the tumor proliferation rate, the nutrient consumption rate, and the chemotactic sensitivity. We study the inverse problem within the Bayesian framework and construct the likelihood and noise for two typical observation settings. One setting involves an infinite-dimensional data space where we observe the full tumor. In the second setting we observe only the tumor volume; hence the data space is finite-dimensional. We show the well-posedness of the posterior measure for both settings, building upon and improving the analytical results in [C. Kahle and K. F. Lam, Appl. Math. Optim., (2018)]. A numerical example involving synthetic data is presented in which the posterior measure is numerically approximated by the sequential Monte Carlo approach with tempering.
+</details>
 
 [3] Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann (2019)  
 **Fast Sampling of parameterised Gaussian random fields**  
 Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, DOI. (Abstract, .bib, arXiv)  
+<details>
+<summary>Abstract</summary>
+
+Gaussian random fields are popular models for spatially varying uncertainties, arising for instance in geotechnical engineering, hydrology or image processing. A Gaussian random field is fully characterised by its mean function and covariance operator. In more complex models these can also be partially unknown. In this case we need to handle a family of Gaussian random fields indexed with hyperparameters. Sampling for a fixed configuration of hyperparameters is already very expensive due to the nonlocal nature of many classical covariance operators. Sampling from multiple configurations increases the total computational cost severely. In this report we employ parameterised Karhunen-Loève expansions for sampling. To reduce the cost we construct a reduced basis surrogate built from snapshots of Karhunen-Loève eigenvectors. In particular, we consider Matérn-type covariance operators with unknown correlation length and standard deviation. We suggest a linearisation of the covariance function and describe the associated online-offline decomposition. In numerical experiments we investigate the approximation error of the reduced eigenpairs. As an application we consider forward uncertainty propagation and Bayesian inversion with an elliptic partial differential equation where the logarithm of the diffusion coefficient is a parameterised Gaussian random field. In the Bayesian inverse problem we employ Markov chain Monte Carlo on the reduced space to generate samples from the posterior measure. All numerical experiments are conducted in 2D physical space, with non-separable covariance operators, and finite element grids with ~1E4 degrees of freedom.
+</details>
 
 [2] Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2018)  
 **Multilevel Sequential² Monte Carlo for Bayesian Inverse Problems**  
