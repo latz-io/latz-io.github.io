@@ -9,6 +9,10 @@ author_profile: true
 ___
 ### Refereed journal articles
 
+[3] Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann (2019)  
+**Fast Sampling of parameterised Gaussian random fields**  
+Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, DOI. (Abstract, *.bib, arXiv)  
+
 [2] Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2018)  
 **Multilevel Sequential² Monte Carlo for Bayesian Inverse Problems**  
 J. Comput. Phys. 368, p. 154-178, DOI. (Abstract, .bib, arXiv)  
