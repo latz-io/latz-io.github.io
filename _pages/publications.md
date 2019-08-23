@@ -9,9 +9,13 @@ author_profile: true
 ___
 ### Refereed journal articles
 
+[4] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019)  
+**Bayesian parameter identification in Cahn-Hilliard models for biological growth**  
+SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, DOI. (Abstract, .bib, arXiv)  
+
 [3] Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann (2019)  
 **Fast Sampling of parameterised Gaussian random fields**  
-Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, DOI. (Abstract, *.bib, arXiv)  
+Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, DOI. (Abstract, .bib, arXiv)  
 
 [2] Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2018)  
 **Multilevel Sequential² Monte Carlo for Bayesian Inverse Problems**  
