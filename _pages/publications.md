@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Preprints
+
+[5] Jonas Latz (2019)  
+On the well-posedness of Bayesian inverse problems  
+Under review. ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La19.bib), [arXiv](https://arxiv.org/abs/1902.10257))  
+<details>
+<summary>Abstract</summary>
+
+The subject of this article is the introduction of a weaker concept of well-posedness of Bayesian inverse problems. The conventional concept of ("Lipschitz") well-posedness in [Stuart 2010, Acta Numerica 19, pp. 451-559] is difficult to verify in practice, especially when considering blackbox models, and probably too strong in many contexts. Our concept replaces the Lipschitz continuity of the posterior measure in the Hellinger distance by just continuity. This weakening is tolerable, since the continuity is in general only used as a stability criterion. The main result of this article is a proof of well-posedness for a large class of Bayesian inverse problems, where very little or no information about the underlying model is available. It includes any Bayesian inverse problem arising when observing finite-dimensional data perturbed by additive, non-degenerate Gaussian noise. Moreover, well-posedness with respect to other probability metrics is investigated, including weak convergence, total variation, Wasserstein, and also the Kullback-Leibler divergence.
+</details>
 
 ___
 ### Refereed journal articles
