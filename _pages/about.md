@@ -13,6 +13,8 @@ redirect_from:
 This webpage is currently under construction. Please visit www.latz.io
 
 
+### News
+
 
 
 {% include base_path %}
