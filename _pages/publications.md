@@ -29,7 +29,7 @@ Gaussian random fields are popular models for spatially varying uncertainties, a
 
 [2] Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2018)  
 **Multilevel Sequential² Monte Carlo for Bayesian Inverse Problems**  
-J. Comput. Phys. 368, p. 154-178, [DOI](https://doi.org/10.1016/j.jcp.2018.04.014). (.bib, [arXiv](https://arxiv.org/abs/1709.09763))  
+J. Comput. Phys. 368, p. 154-178, [DOI](https://doi.org/10.1016/j.jcp.2018.04.014). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LPU18.bib), [arXiv](https://arxiv.org/abs/1709.09763))  
 <details>
 <summary>Abstract</summary>
 
@@ -43,7 +43,7 @@ ___
 
 [1] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018)  
 **A practical example for the non-linear Bayesian filtering of model parameters**  
-*Accepted.* ([github](https://github.com/BayesianLearning/PenduSMC), .bib, [arXiv](https://arxiv.org/abs/1807.08713)) 
+*Accepted.* ([github](https://github.com/BayesianLearning/PenduSMC), [.bib](), [arXiv](https://arxiv.org/abs/1807.08713)) 
 <details>
 <summary>Abstract</summary>
 
