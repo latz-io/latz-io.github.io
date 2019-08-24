@@ -7,7 +7,7 @@ author_profile: true
 
 ### Preprints
 
-[5] [7] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2019)  
+[7] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2019)  
 **Bayesian inference with subset simulation in spaces of varying dimension**   
 *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS19.bib), [Preprint](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2019_uribe_et_al_JCP.pdf))  
 <details>
@@ -16,7 +16,7 @@ author_profile: true
 Uncertainties associated with spatially varying parameters are modeled through random fields discretized into a finite number of random variables. Standard discretization methods, such as the Karhunen-Loève expansion,are based on functional representations that use series expansions for which the truncation order is specified a priori. However, when data is used to update random fields through Bayesian inference, a different truncation order might be necessary to adequately represent the posterior random field. This is an inference problem that not only requires the determination of the often high-dimensional set of coefficients, but also their dimension. In this paper, we develop a sequential algorithm to handle such inference settings, and propose a prior distribution for the dimension parameter that penalizes increasing dimensionality. The method is a variable-dimensional extension of the BUS (Bayesian Updating with Structural reliability methods)approach, combined with subset simulation (SuS). The key idea is to replace the standard Markov chain Monte Carlo (MCMC) algorithm within SuS by a trans-dimensional MCMC sampler that is able to populate the discrete-continuous parameter space. To address this task, we consider two types of MCMC algorithms that operate in a fixed-dimensional saturated parameter space. The performance of the proposed method with both MCMC variants is assessed numerically for two example problems: A 1D cantilever beam with spatially varying flexibility, and a 2D groundwater flow problem with uncertain hydraulic conductivity field.
 </details>
 
-[5] Ionuţ-Gabriel Farcaş, Jonas Latz, Elisabeth Ullmann, Tobias Neckel, Hans-Joachim Bungartz (2019)  
+[6] Ionuţ-Gabriel Farcaş, Jonas Latz, Elisabeth Ullmann, Tobias Neckel, Hans-Joachim Bungartz (2019)  
 **Multilevel Adaptive Sparse Leja Approximations for Bayesian Inverse Problems**  
 *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/FLUNB19.bib), [arXiv](https://arxiv.org/abs/1904.12204))  
 <details>
