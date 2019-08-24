@@ -25,3 +25,4 @@ This webpage is currently under construction. Please visit www.latz.io
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+
