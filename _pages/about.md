@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+
+
 This webpage is currently under construction. Please visit www.latz.io
+
+
 
 
 {% include base_path %}
