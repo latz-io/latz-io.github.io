@@ -11,7 +11,7 @@ ___
 
 [4] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019)  
 **Bayesian parameter identification in Cahn-Hilliard models for biological growth**  
-SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, [DOI](https://doi.org/10.1137/18M1210034). (Abstract, .bib, arXiv)  
+SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, [DOI](https://doi.org/10.1137/18M1210034). (.bib, [arXiv](https://arxiv.org/abs/1805.03304))  
 <details>
 <summary>Abstract</summary>
 
@@ -20,7 +20,7 @@ We consider the inverse problem of parameter estimation in a diffuse interface m
 
 [3] Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann (2019)  
 **Fast Sampling of parameterised Gaussian random fields**  
-Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, [DOI](https://doi.org/10.1016/j.cma.2019.02.003). (.bib, arXiv)  
+Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, [DOI](https://doi.org/10.1016/j.cma.2019.02.003). (.bib, [arXiv](https://arxiv.org/abs/1804.11157))  
 <details>
 <summary>Abstract</summary>
 
@@ -29,7 +29,7 @@ Gaussian random fields are popular models for spatially varying uncertainties, a
 
 [2] Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2018)  
 **Multilevel Sequential² Monte Carlo for Bayesian Inverse Problems**  
-J. Comput. Phys. 368, p. 154-178, [DOI](https://doi.org/10.1016/j.jcp.2018.04.014). (.bib, arXiv)  
+J. Comput. Phys. 368, p. 154-178, [DOI](https://doi.org/10.1016/j.jcp.2018.04.014). (.bib, [arXiv](https://arxiv.org/abs/1709.09763))  
 <details>
 <summary>Abstract</summary>
 
@@ -43,7 +43,7 @@ ___
 
 [1] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018)  
 **A practical example for the non-linear Bayesian filtering of model parameters**  
-*Accepted.* (github, .bib, arXiv) 
+*Accepted.* ([github](https://github.com/BayesianLearning/PenduSMC), .bib, [arXiv](https://arxiv.org/abs/1807.08713)) 
 <details>
 <summary>Abstract</summary>
 
