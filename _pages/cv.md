@@ -10,12 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-* B.Sc. in Business Mathematics, Universität Trier, 2014
-* M.Sc. in Scientific Computing, University of Warwick, 2016
 * M.Sc. in Applied Mathematics and Economics, Universität Trier, 2017
+* M.Sc. in Scientific Computing, University of Warwick, 2016
+* B.Sc. in Business Mathematics, Universität Trier, 2014
+
+
 
 ### Work experience
-* September 2016 - : Teaching and Research Assistant
+* 2016-09-01 -- : Teaching and Research Assistant
   * Technische Universität München
   * Chair for Numerical Analysis (M2), Department of Mathematics
   * Supervisor: Professor Dr Elisabeth Ullmann
