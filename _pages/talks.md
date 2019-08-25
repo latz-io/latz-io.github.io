@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2019
-   *  (June 30th- July 5th 2019) [39th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2019)](https://www.ipp.mpg.de/maxent2019), Max Planck Institute for Plasma Physics, Garching, Germany. 
+   - [x]  (June 30th- July 5th 2019) [39th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2019)](https://www.ipp.mpg.de/maxent2019), Max Planck Institute for Plasma Physics, Garching, Germany. 
    *  (March 10th-16th 2019) [Oberwolfach Workshop 1911 "Uncertainty Quantification"](https://www.mfo.de/occasion/1911/www_view), Mathematisches Forschungsinstitut Oberwolfach, Germany.
    *  (February 25th - March 1st 2019) [SIAM Conference on Computational Science and Engineering (CSE19)](https://www.siam.org/conferences/CM/Main/cse19), Spokane, WA, USA. ([Video](https://www.pathlms.com/siam/courses/10878/sections/14372/video_presentations/127511))
    *  (February 21st 2019) [Seminar/Group Meeting "RTG Mathematical Modelling and Simulation"](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/activities/group-meeting/), Courant Institute of Mathematical Sciences, New York, NY, USA. ([[%ATTACHURL%/talk_courant_handout.pdf][Slides]])
