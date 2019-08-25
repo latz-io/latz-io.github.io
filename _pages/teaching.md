@@ -6,11 +6,16 @@ author_profile: true
 ---
 
 ### Lectures
- -  *2019-07-16:* Guest lecture "Bayesian inverse problems" in Algorithms for Uncertainty Quantification, Chair for Scientific Computing, Computer Science, TUM.  
+
+##### Technical University of Munich, Department of Mathematics
  -  *Summer term 2019:* "Lectures on Bayesian inverse problems" in [Numerical Methods for Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/NUMUQ19).  
- -  *2018-07-10:* [Guest lecture "Bayesian inverse problems" in Algorithms for Uncertainty Quantification](https://www5.in.tum.de/wiki/index.php/Algorithms_for_Uncertainty_Quantification_-_Summer_18), Chair for Scientific Computing, Computer Science, TUM.  
  -  *Summer term 2018:* "Lectures on Bayesian inverse problems" in [Numerical Methods for Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/NUMUQ18).  
- -  *2017-07-18:* [Guest lecture "Bayesian inverse problems" in Algorithms for Uncertainty Quantification](https://www5.in.tum.de/wiki/index.php/Algorithms_for_Uncertainty_Quantification_-_Summer_17), Chair for Scientific Computing, Computer Science, TUM.  
+
+##### Technical University of Munich, Department of Informatics
+ -  *2019-07-16:* Guest lecture "Bayesian inverse problems" in Algorithms for Uncertainty Quantification.
+ -  *2018-07-10:* [Guest lecture "Bayesian inverse problems" in Algorithms for Uncertainty Quantification](https://www5.in.tum.de/wiki/index.php/Algorithms_for_Uncertainty_Quantification_-_Summer_18).
+ -  *2017-07-18:* [Guest lecture "Bayesian inverse problems" in Algorithms for Uncertainty Quantification](https://www5.in.tum.de/wiki/index.php/Algorithms_for_Uncertainty_Quantification_-_Summer_17).
+  
 ### Tutorials
 ##### Technical University of Munich, Department of Mathematics
  -  *Winter term 2018/19:* Supervision in [Hauptseminar: Data assimilation](https://www-m2.ma.tum.de/bin/view/Allgemeines/DATA).  
