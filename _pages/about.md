@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-
-This webpage is currently under construction. Please visit www.latz.io
+Welcome to my academic webpage. I am currently a PhD student in mathematics in the group of Elisabeth Ullmann at the Technical University of Munich. Our research is at the interface of numerical analysis, computational science, probability theory, and statistics. This page contains 
 
 &nbsp; &nbsp; &nbsp;
 ---
