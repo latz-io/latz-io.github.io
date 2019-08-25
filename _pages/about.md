@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to my academic webpage. I am currently a PhD student in mathematics in the group of Elisabeth Ullmann at the Technical University of Munich. Our research is at the interface of numerical analysis, computational science, probability theory, and statistics. It focuses on methods that can be used to blend mathematical models with observational data. This webpage contains information about my research output in [academic journals](/publications/) and at [academic meetings](/talks/), 
+Welcome to my academic webpage. I am currently a PhD student in mathematics in the group of Elisabeth Ullmann at the Technical University of Munich. Our research is at the interface of numerical analysis, computational science, probability theory, and statistics. It focuses on methods that can be used to blend mathematical models with observational data. This webpage contains information about my research output in [academic journals](/publications/) and at [academic meetings](/talks/). Moreover, I summarised my [teaching experience](/teaching/) and my [personal background](/cv/).
 
 &nbsp; &nbsp; &nbsp;
 ---
