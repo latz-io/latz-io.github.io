@@ -8,4 +8,4 @@ redirect_from:
   - /contact.html
 ---
 
-Please send  comments, critiques, hints, ideas, and inquiries to jonas.latz@tum.de. I am looking forward to your input.
+Please send  comments, critiques, hints, ideas, and inquiries to [jonas.latz@tum.de](mailto:jonas.latz@tum.de). I am looking forward to your input.
