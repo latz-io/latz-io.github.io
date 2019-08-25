@@ -10,8 +10,8 @@ author_profile: true
 Optimization and Inversion under Uncertainty](https://www.ricam.oeaw.ac.at/specsem/specsem2019/workshop3/), Johann Radon Institute for Applied and Computational Mathematics, Linz, Germany.  
 
 ## Past  
-<iframe src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en" width="600" height="400">A map of the meetings I participated in. </iframe>
-<br>
+A map of all the meetings I have participated in:
+<iframe src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en" width="600" height="400"></iframe>
 
 ### 2019
  -  *2019-06-30 -- 2019-07-05:* Talk @ [39th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2019)](https://www.ipp.mpg.de/maxent2019), Max Planck Institute for Plasma Physics, Garching, Germany.  
