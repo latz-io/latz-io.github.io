@@ -13,17 +13,17 @@ author_profile: true
 *2017-07-18:* [Guest lecture "Bayesian Inverse Problems" in Algorithms for Uncertainty Quantification](https://www5.in.tum.de/wiki/index.php/Algorithms_for_Uncertainty_Quantification_-_Summer_17), Chair for Scientific Computing, Computer Science, TUM.  
 ### Tutorials
 ##### Technische Universität München, Zentrum Mathematik
-*Winter term 2018/19:* Supervision in [Hauptseminar: Data assimilation](https://www-m2.ma.tum.de/bin/view/Allgemeines/DATA),
-*Summer term 2018:* Tutorials in [Numerical Methods for Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/NUMUQ18),  
-*Winter term 2017/18:* Tutorials in [Einführung in die Numerische Lineare Algebra](https://www-m2.ma.tum.de/bin/view/Allgemeines/NLA17),  
-*Summer term 2017:* Tutorials in [Numerical Methods for Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/NUMUQ17) and Supervision in [Hauptseminar: Uncertainty Quantification with Efficient Monte Carlo Methods](https://www-m2.ma.tum.de/bin/view/Allgemeines/UQSEM),  
+*Winter term 2018/19:* Supervision in [Hauptseminar: Data assimilation](https://www-m2.ma.tum.de/bin/view/Allgemeines/DATA).
+*Summer term 2018:* Tutorials in [Numerical Methods for Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/NUMUQ18).  
+*Winter term 2017/18:* Tutorials in [Einführung in die Numerische Lineare Algebra](https://www-m2.ma.tum.de/bin/view/Allgemeines/NLA17).  
+*Summer term 2017:* Tutorials in [Numerical Methods for Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/NUMUQ17) and Supervision in [Hauptseminar: Uncertainty Quantification with Efficient Monte Carlo Methods](https://www-m2.ma.tum.de/bin/view/Allgemeines/UQSEM).  
 *Winter term 2016/17:* Tutorials in [Maß- und Integrationstheorie](http://www-m2.ma.tum.de/bin/view/Allgemeines/MIT16).  
 ##### University of Warwick, Mathematics Institute, UK
 *Term 1/2 2015/16:* _Undergraduate Supervisor_.  
 ##### Universität Trier, Fachbereich IV
-*Summer term 2015:* Tutorials in _Elemente der Analysis 2_,  
-*Winter term 2014/15:* Tutorials in _Elemente der Analysis 1_ and Tutorials in _Mikroökonomik_,  
-*Winter term 2013/14:* Tutorials in _Mikroökonomik_.  
+*Summer term 2015:* Tutorials in Elemente der Analysis 2.  
+*Winter term 2014/15:* Tutorials in Elemente der Analysis 1 and Tutorials in Mikroökonomik.  
+*Winter term 2013/14:* Tutorials in Mikroökonomik.  
 ### Supervised students
 ##### Bachelor's theses
 *ongoing:* Samuel Amar (working title: Adaptive Metropolis for Bayesian inference in crystallography).  
