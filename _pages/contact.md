@@ -1,8 +1,10 @@
 ---
-permalink: /contact/
+layout: archive
 title: "Contact"
-excerpt: "Contact"
+permalink: /contact/
 author_profile: true
+redirect_from:
+  - /input
 ---
 
 Please send  comments, critiques, hints, ideas, and inquiries to [jonas.latz@tum.de](mailto:jonas.latz@tum.de). 
