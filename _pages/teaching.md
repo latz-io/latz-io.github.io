@@ -28,7 +28,7 @@ author_profile: true
 *2018:* Matthieu Bulte (title: Sequential Monte Carlo for time-dependent Bayesian Inverse Problems)
 ##### Master's theses
 *2018:* Sabrina Balzer (title: Gaussian process surrogates for Bayesian parameter identification in computational oncology; with Christian Kahle and Elisabeth Ullmann)
-*2018:* Fabian Wagner (title: Particle Methods for Deep Learning)
-*2017:* Marvin Eisenberger (title: Parameterized solution of Karhunen-Loève Eigenproblems with Reduced Basis Methods in Uncertainty Quantification, now: [[https://vision.in.tum.de/members/eisenber][TUM Dep. Informatics]])
+*2018:* Fabian Wagner (title: Particle Methods for Deep Learning, now: [TUM Dep. Mathematics](https://www-m2.ma.tum.de/bin/view/Allgemeines/FabianWagner))
+*2017:* Marvin Eisenberger (title: Parameterized solution of Karhunen-Loève Eigenproblems with Reduced Basis Methods in Uncertainty Quantification, now: [TUM Dep. Informatics](https://vision.in.tum.de/members/eisenber))
 
 
