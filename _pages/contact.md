@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 Please send  comments, critiques, hints, ideas, and inquiries to [jonas.latz@tum.de](mailto:jonas.latz@tum.de). 
-Alternatively, you can reach me via my work-related postal address 
+Alternatively, you can reach me via my work-related postal address:
 
 Jonas Latz   
 Fakultät für Mathematik - M2	  
 Boltzmannstraße 3	  
 85748 Garching b. M.   
 Germany   
+
+or you meet me in person; see my [list of upcoming events](\talks\).
 
 I am looking forward to your input.
