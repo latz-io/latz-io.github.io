@@ -17,19 +17,24 @@ author_profile: true
  -  *2017-07-18:* [Guest lecture "Bayesian inverse problems" in Algorithms for Uncertainty Quantification](https://www5.in.tum.de/wiki/index.php/Algorithms_for_Uncertainty_Quantification_-_Summer_17).
   
 ### Tutorials
+
 ##### Technical University of Munich, Department of Mathematics
  -  *Winter term 2018/19:* Supervision in [Hauptseminar: Data assimilation](https://www-m2.ma.tum.de/bin/view/Allgemeines/DATA).  
  -  *Summer term 2018:* Tutorials in [Numerical Methods for Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/NUMUQ18).  
  -  *Winter term 2017/18:* Tutorials in [Einführung in die Numerische Lineare Algebra](https://www-m2.ma.tum.de/bin/view/Allgemeines/NLA17).  
  -  *Summer term 2017:* Tutorials in [Numerical Methods for Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/NUMUQ17) and Supervision in [Hauptseminar: Uncertainty Quantification with Efficient Monte Carlo Methods](https://www-m2.ma.tum.de/bin/view/Allgemeines/UQSEM).  
  -  *Winter term 2016/17:* Tutorials in [Maß- und Integrationstheorie](http://www-m2.ma.tum.de/bin/view/Allgemeines/MIT16).  
+ 
 ##### University of Warwick, Mathematics Institute, UK
  -  *Term 1/2 2015/16:* _Undergraduate Supervisor_.  
+
 ##### University of Trier, Faculty IV
  -  *Summer term 2015:* Tutorials in Elemente der Analysis 2.  
  -  *Winter term 2014/15:* Tutorials in Elemente der Analysis 1 and Tutorials in Mikroökonomik.  
  -  *Winter term 2013/14:* Tutorials in Mikroökonomik.  
+ 
 ### Supervised students
+
 ##### Bachelor's theses
  -  *ongoing:* Samuel Amar (working title: Adaptive Metropolis for Bayesian inference in crystallography).  
  -  *2019:* Sarah Kreuzer (title: Efficient implementation of the Ising-model and image denoising).  
