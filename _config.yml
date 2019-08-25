@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Jonas Latz / academic webpage"
+title                    : "Jonas Latz  / input & output"
 title_separator          : "-"
 name                     : &name "Jonas Latz"
 description              : &description "PhD student, applied mathematics"
@@ -87,7 +87,7 @@ author:
   employer         : "Technical University of Munich"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CjgdvUkAAAAJ&hl=en"
-  email            :
+  email            : "jonas.latz@tum.de"
   researchgate     : "https://www.researchgate.net/profile/Jonas_Latz"
   uri              :
   bitbucket        :
@@ -105,7 +105,7 @@ author:
   orcid            : "http://orcid.org/0000-0002-4600-0247"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "http://stackoverflow.com/users/382832/jonas"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
