@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Please send  comments, critiques, hints, ideas, and inquiries to [jonas.latz@tum.de](mailto:jonas.latz@tum.de). 
-Alternatively, you can reach me by mail:
+Alternatively, you can reach me classically by mail:
 
 Jonas Latz   
 Technische Universität München   
