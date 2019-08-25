@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 <br>
-<iframe src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en" width="600" height="400"></iframe>
 <br>
 <br>
 
