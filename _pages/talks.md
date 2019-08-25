@@ -5,10 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
-<br>
+## Upcoming events
+ -  *2019-11-11 -- 2019-11-15:* [RICAM Special Semester Optimization, Workshop 3:
+Optimization and Inversion under Uncertainty](https://www.ricam.oeaw.ac.at/specsem/specsem2019/workshop3/), Johann Radon Institute for Applied and Computational Mathematics, Linz, Germany.  
+
+## Past events
+
 <br>
 <iframe src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en" width="600" height="400"></iframe>
-<br>
 <br>
 
 ### 2019
