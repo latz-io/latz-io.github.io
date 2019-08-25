@@ -12,9 +12,9 @@ Please send  comments, critiques, hints, ideas, and inquiries to [jonas.latz@tum
 Alternatively, my postal address is
 
 Jonas Latz   
-Fakultät für Mathematik - M2	 
-Boltzmannstraße 3	 
-85748 Garching b. M.  
-Germany  
+Fakultät für Mathematik - M2	  
+Boltzmannstraße 3	  
+85748 Garching b. M.   
+Germany   
 
 I am looking forward to your input.
