@@ -18,9 +18,8 @@ redirect_from:
 
 ### Work experience
 * 2016-09-01 -- : Teaching and Research Assistant
-  * Technische Universität München
-  * Chair for Numerical Analysis (M2), Department of Mathematics
-  * Supervisor: Professor Dr Elisabeth Ullmann
+  * Technical Unniversity of Munich, Department of Mathematics, Chair for Numerical Analysis (M2)
+  * Supervisor: Prof. Dr. Elisabeth Ullmann
   
 ### Stays
  *  *2019-02-20 -- 2019-02-22:* Courant Institute of Mathematical Sciences, New York, NY, USA. (with Benjamin Peherstorfer)
