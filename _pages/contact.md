@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Please send  comments, critiques, hints, ideas, and inquiries to [jonas.latz@tum.de](mailto:jonas.latz@tum.de). 
-Alternatively, my postal address is
+Alternatively, you can reach me via my work-related postal address 
 
 Jonas Latz   
 Fakultät für Mathematik - M2	  
