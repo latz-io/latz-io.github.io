@@ -23,4 +23,4 @@ author_profile: true
 *2017-11-22:* Seminar Stochastics, Statistics and Numerical Analysis, Universität Mannheim, Germany.  
 *2017-09-06 -- 2017-09-08:* [FrontUQ in Engineering](https://www.events.tum.de/frontend/index.php?sub=62), Munich, Germany.  
 *2017-06-15 -- 2017-06-17:* [2nd International Conference on Uncertainty Quantification in Computational Sciences and Engineering (UNCECOMP 2017)](https://2017.uncecomp.org/), Rhodes, Greece.  
-*March 24th 2017:* Group Seminar, Hybrid Materials Interfaces Group, Universität Bremen, Germany.  
+*2017-03-24:* Group Seminar, Hybrid Materials Interfaces Group, Universität Bremen, Germany.  
