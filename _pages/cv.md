@@ -18,7 +18,7 @@ redirect_from:
 
 ### Work experience
 * 2016-09-01 -- : Teaching and Research Assistant
-  * Technical Unniversity of Munich, Department of Mathematics, Chair for Numerical Analysis (M2)
+  * Technical University of Munich, Department of Mathematics, Chair for Numerical Analysis (M2)
   * Supervisor: Prof. Dr. Elisabeth Ullmann
   
 ### Stays
