@@ -13,7 +13,7 @@ author_profile: true
 *2017-07-18:* [Guest lecture "Bayesian inverse problems" in Algorithms for Uncertainty Quantification](https://www5.in.tum.de/wiki/index.php/Algorithms_for_Uncertainty_Quantification_-_Summer_17), Chair for Scientific Computing, Computer Science, TUM.  
 ### Tutorials
 ##### Technische Universität München, Zentrum Mathematik
-*Winter term 2018/19:* Supervision in [Hauptseminar: Data assimilation](https://www-m2.ma.tum.de/bin/view/Allgemeines/DATA).
+*Winter term 2018/19:* Supervision in [Hauptseminar: Data assimilation](https://www-m2.ma.tum.de/bin/view/Allgemeines/DATA).  
 *Summer term 2018:* Tutorials in [Numerical Methods for Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/NUMUQ18).  
 *Winter term 2017/18:* Tutorials in [Einführung in die Numerische Lineare Algebra](https://www-m2.ma.tum.de/bin/view/Allgemeines/NLA17).  
 *Summer term 2017:* Tutorials in [Numerical Methods for Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/NUMUQ17) and Supervision in [Hauptseminar: Uncertainty Quantification with Efficient Monte Carlo Methods](https://www-m2.ma.tum.de/bin/view/Allgemeines/UQSEM).  
