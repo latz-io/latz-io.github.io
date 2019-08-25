@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en" width="640" height="480"></iframe>
+
 ### 2019
 *2019-06-30 -- 2019-07-05:* [39th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2019)](https://www.ipp.mpg.de/maxent2019), Max Planck Institute for Plasma Physics, Garching, Germany.  
 *2019-03-10 -- 2019-03-16:* [Oberwolfach Workshop 1911 "Uncertainty Quantification"](https://www.mfo.de/occasion/1911/www_view), Mathematisches Forschungsinstitut Oberwolfach, Germany.  
