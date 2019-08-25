@@ -4,8 +4,9 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en" width="640" height="480"></iframe>
+<center>
+<iframe src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en" width="600" height="400"></iframe>
+  </center>
 
 ### 2019
 *2019-06-30 -- 2019-07-05:* [39th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2019)](https://www.ipp.mpg.de/maxent2019), Max Planck Institute for Plasma Physics, Garching, Germany.  
