@@ -8,17 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+I am currently a mathematics PhD student in the group of Elisabeth Ullmann at the Technical University of Munich. Our research is at the interface of numerical analysis, computational science, probability theory, and statistics. It focuses on methods that can be used to blend mathematical models with observational data. 
 
-I am currently a PhD student in mathematics in the group of Elisabeth Ullmann at the Technical University of Munich. Our research is at the interface of numerical analysis, computational science, probability theory, and statistics. It focuses on methods that can be used to blend mathematical models with observational data. 
-
-This webpage contains information about my research output in [academic journals](/publications/) and at [academic meetings](/talks/). Moreover, I summarised my [teaching experience](/teaching/) and my [personal background](/cv/). Input of any kind is highly appreciated; [please contact me](/contact/).
+This webpage contains information about my research output in [academic journals](/publications/) and at [academic meetings](/talks/). Moreover, I have summarised my [teaching experience](/teaching/) and my [personal background](/cv/). Input of any kind is highly appreciated; [please contact me](/contact/).
 
 &nbsp; &nbsp; &nbsp;
 ---
 
 # News
-
-
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
