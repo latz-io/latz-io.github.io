@@ -26,12 +26,12 @@ A map of all the meetings I have participated in:
  -  Talk @ [13th International Conference in Monte Carlo & Quasi-Monte Carlo Methods in Scientific Computing (MCQMC 2018)](http://mcqmc2018.inria.fr/), Rennes, France.  *(2018-07-01 -- 2018-07-06)* 
  -  Talk @ [SIAM Conference on Uncertainty Quantification 2018 (UQ18)](https://www.siam.org/meetings/uq18/), Garden Grove, CA, USA.  *(2018-04-16 -- 2018-04-19)* 
  -  Talk @ [GAMM Annual Meeting 2018](http://jahrestagung.gamm-ev.de/), Munich, Germany.  *(2018-03-19 -- 2018-03-23)* 
- -  [Seminar](https://www.newton.ac.uk/event/unq), Isaac Newton Institute, Cambridge, United Kingdom.  *(2018-02-20)* 
+ -  Talk @ [Seminar](https://www.newton.ac.uk/event/unq), Isaac Newton Institute, Cambridge, United Kingdom.  *(2018-02-20)* 
  -  Poster @ [Surrogate models for UQ in complex systems](https://www.newton.ac.uk/event/unqw02), Isaac Newton Institute, Cambridge, United Kingdom.  *(2018-02-05 -- 2018-02-09)*
 
 ### 2017
  -  Talk @ Seminar Stochastics, Statistics and Numerical Analysis, Universität Mannheim, Germany.  *(2017-11-22)* 
- -  [FrontUQ in Engineering](https://www.events.tum.de/frontend/index.php?sub=62), Munich, Germany.  *(2017-09-06 -- 2017-09-08)* 
+ -  Talk @ [FrontUQ in Engineering](https://www.events.tum.de/frontend/index.php?sub=62), Munich, Germany.  *(2017-09-06 -- 2017-09-08)* 
  -  Talk @ [2nd International Conference on Uncertainty Quantification in Computational Sciences and Engineering (UNCECOMP 2017)](https://2017.uncecomp.org/), Rhodes, Greece.  *(2017-06-15 -- 2017-06-17)* 
  -  Talk @ Group Seminar, Hybrid Materials Interfaces Group, Universität Bremen, Germany.  *(2017-03-24)* 
 
