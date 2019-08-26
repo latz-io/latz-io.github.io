@@ -36,4 +36,4 @@ A map of all the meetings I have participated in:
  -  Talk @ Group Seminar, Hybrid Materials Interfaces Group, Universität Bremen, Germany.  *(2017-03-24)* 
 
 ### 2016
- -  Participant @ Uncertainty Quantification Summer school,  WIAS Berlin. *(2016-09-12 -- 2016-09-16)*
+ -  Participant @ Uncertainty Quantification Summer school,  Weierstrass Institute Berlin, Germany. *(2016-09-12 -- 2016-09-16)*
