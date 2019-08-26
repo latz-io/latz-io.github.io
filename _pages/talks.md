@@ -34,3 +34,6 @@ A map of all the meetings I have participated in:
  -  [FrontUQ in Engineering](https://www.events.tum.de/frontend/index.php?sub=62), Munich, Germany.  *(2017-09-06 -- 2017-09-08)* 
  -  Talk @ [2nd International Conference on Uncertainty Quantification in Computational Sciences and Engineering (UNCECOMP 2017)](https://2017.uncecomp.org/), Rhodes, Greece.  *(2017-06-15 -- 2017-06-17)* 
  -  Talk @ Group Seminar, Hybrid Materials Interfaces Group, Universität Bremen, Germany.  *(2017-03-24)* 
+
+### 2016
+ -  Participant @ Uncertainty Quantification Summer school,  WIAS Berlin. *(2016-09-12 -- 2016-09-16)*
