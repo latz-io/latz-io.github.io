@@ -9,14 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
-* M.Sc. in Applied Mathematics and Economics, Universität Trier, 2017
-* M.Sc. in Scientific Computing, University of Warwick, 2016
-* B.Sc. in Business Mathematics, Universität Trier, 2014
-
-
-
-### Work experience
+### Work experience (full-time in academia)
 * 2016-09-01 -- : Teaching and Research Assistant
   * Technical University of Munich, Department of Mathematics, Chair for Numerical Analysis (M2)
   * Supervisor: Prof. Dr. Elisabeth Ullmann
@@ -27,4 +20,9 @@ redirect_from:
  *  *2018-09-01 -- 2019-11-30:* Chair of Scientific Computing and Uncertainty Quantification, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. (with Fabio Nobile)
  *  *2018-02-05 -- 2018-02-23:* Isaac Newton Institute, University of Cambridge, UK.
  *  *2017-11-20 -- 2017-11-22:* Chair of Mathematical Optimization, Universität Mannheim, Germany. (with Claudia Schillings)
+
+### Education
+* M.Sc. in Applied Mathematics and Economics, Universität Trier, 2017
+* M.Sc. in Scientific Computing, University of Warwick, 2016
+* B.Sc. in Business Mathematics, Universität Trier, 2014
 
