@@ -85,7 +85,7 @@ ___
 
 [2] Jonas Latz (2016)  
 **Bayes Linear Methods for Inverse Problems**  
-Master's thesis, University of Warwick ([.pdf](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/Dissertation_Jonas_Latz.pdf), [.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La16.bib)) 
+Master's thesis, University of Warwick ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La16.bib), [fulltext](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/Dissertation_Jonas_Latz.pdf)) 
 <details>
 <summary>Abstract</summary>
   
