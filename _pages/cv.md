@@ -19,8 +19,13 @@ During my PhD, I was able to stay and work with various other researchers. I lis
  *  *2018-02-05 -- 2018-02-23:* Isaac Newton Institute, University of Cambridge, UK.
  *  *2017-11-20 -- 2017-11-22:* Chair of Mathematical Optimization, Universität Mannheim, Germany. (with Claudia Schillings)
 
-Before coming to Munich as a PhD student, I studied Mathematics and Scientific Computing at University of Trier, Germany, and University of Warwick, UK. I obtained my Abitur (German high school diploma, matriculation examination) from Otto-Hahn-Gymnasium, Saarbrücken.
+Before moving to Munich as a PhD student, I studied Mathematics and Scientific Computing at University of Trier, Germany, and University of Warwick, UK. I obtained my Abitur (German high school diploma, matriculation examination) from Otto-Hahn-Gymnasium, Saarbrücken.
 
 
 ### Personal life
-In my personal life, I am passionate about music and arts: I have been playing in various rock, pop, and jazz bands since the age of 14-15. For a couple of years now, I have also been painting (aquarelle) and printing (linocuts). Other than producing media, I also enjoy it passively: art galleries, concerts, plays, operas, books, but also video games. 
+In my personal life, I am passionate about music and arts: I have been playing in various rock, pop, and jazz bands since the age of 14-15. For a couple of years now, I have also been painting (aquarelle) and printing (linocuts). Other than producing media, I also enjoy it passively: art galleries, concerts, plays, operas, books, films, and also video games.
+Another passion of mine is science communication; so far mostly in German, though: 
+
+ * _[Uncertaintea Quantification (Youtube)](https://www.youtube.com/watch?v=ntN6mNLxVYI)_, Science Slam, Hamburg, 2017 (in German)
+ * Latz, Ullmann: _[Bayes'sche Inversion am Beispiel des Fadenpendels](https://www5.in.tum.de/quartl/2017/quartl84_n.pdf#page=6)_, in Quartl 84, Garching, 2017 (in German)
+ * Latz, Ullmann: _[Wie lernen Computer die Erdbeschleunigung?](https://www.tum.de/fileadmin/w00bfo/www/TUMcampus/2018_01/18_1_TUMcampus_Web_Neu.pdf#page=21)_, in TUM Campus Magazin, 01/2018 (in German)
