@@ -24,6 +24,8 @@ Before moving to Munich as a PhD student, I studied Mathematics and Scientific C
 
 ### Personal life
 In my personal life, I am passionate about music and arts: I have been playing in various rock, pop, and jazz bands since the age of 14-15. For a couple of years now, I have also been painting (aquarelle) and printing (linocuts). Other than producing media, I also enjoy it passively: art museums, concerts, plays, operas, books, films, and also video games.
+
+
 Another passion of mine is science communication; so far mostly in German, though: 
 
  * _[Uncertaintea Quantification (Youtube)](https://www.youtube.com/watch?v=ntN6mNLxVYI)_, Science Slam, Hamburg, 2017 (in German)
