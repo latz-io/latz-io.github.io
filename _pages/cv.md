@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ### Research and Education
-I have been a PhD student and a teaching assistant in the group of Elisabeth Ullmann since September 2016. At Technical University of Munich (TUM), I am part of the [International Graduate School of Science and Engineering](https://www.igsse.gs.tum.de/index.php?id=5) - more particularly in the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87). In this project, we look from different perspectives at Bayesian inverse problems with infinite dimensional parameter spaces. Those are the mathematics perspective, the computer science perspective, and the civil and computational engineering. My PhD thesis has the title *"Exploring and exploiting hierarchies in Bayesian inverse problems"*.
+I have been a PhD student and a teaching assistant in the group of Elisabeth Ullmann since September 2016. At Technical University of Munich (TUM), I am part of the [International Graduate School of Science and Engineering](https://www.igsse.gs.tum.de/index.php?id=5) - more particularly in the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87). In this project, we look from different perspectives at Bayesian inverse problems with infinite dimensional parameter spaces. Those are the mathematics perspective, the computer science perspective, and the civil and computational engineering. 
 
-During my PhD, I was able to stay and work with various other researchers. I list these stays below. 
+During my PhD, I have been able to stay and work with various other researchers. I list these stays below. 
  *  *2019-02-20 -- 2019-02-22:* Courant Institute of Mathematical Sciences, New York, NY, USA. (with Benjamin Peherstorfer)
  *  *2019-01-24 -- 2019-01-25:* Chair of Applied Mathematics, University of Manchester, UK. (with Kody J.H. Law)
  *  *2018-09-01 -- 2019-11-30:* Chair of Scientific Computing and Uncertainty Quantification, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. (with Fabio Nobile)
@@ -23,7 +23,7 @@ Before moving to Munich as a PhD student, I studied Mathematics and Scientific C
 
 
 ### Personal life
-In my personal life, I am passionate about music and arts: I have been playing in various rock, pop, and jazz bands since the age of 14-15. For a couple of years now, I have also been painting (aquarelle) and printing (linocuts). Other than producing media, I also enjoy it passively: art galleries, concerts, plays, operas, books, films, and also video games.
+In my personal life, I am passionate about music and arts: I have been playing in various rock, pop, and jazz bands since the age of 14-15. For a couple of years now, I have also been painting (aquarelle) and printing (linocuts). Other than producing media, I also enjoy it passively: art museums, concerts, plays, operas, books, films, and also video games.
 Another passion of mine is science communication; so far mostly in German, though: 
 
  * _[Uncertaintea Quantification (Youtube)](https://www.youtube.com/watch?v=ntN6mNLxVYI)_, Science Slam, Hamburg, 2017 (in German)
