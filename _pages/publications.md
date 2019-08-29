@@ -9,7 +9,7 @@ author_profile: true
 
 [9] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2019)  
 **Bayesian inference with subset simulation in spaces of varying dimension**   
-*Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS19.bib), [Preprint](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2019_uribe_et_al_JCP.pdf))  
+*Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS19.bib), [preprint](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2019_uribe_et_al_JCP.pdf))  
 <details>
 <summary>Abstract</summary>
 
@@ -85,7 +85,7 @@ ___
 
 [2] Jonas Latz (2016)  
 **Bayes Linear Methods for Inverse Problems**  
-Master's thesis, University of Warwick ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La16.bib), [fulltext](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/Dissertation_Jonas_Latz.pdf)) 
+Master's thesis, University of Warwick ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La16.bib), [full text](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/Dissertation_Jonas_Latz.pdf)) 
 <details>
 <summary>Abstract</summary>
   
