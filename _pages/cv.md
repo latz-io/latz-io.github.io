@@ -22,3 +22,5 @@ During my PhD, I was able to stay and work with various other researchers. I lis
 Before coming to Munich as a PhD student, I studied Mathematics and Scientific Computing at University of Trier, Germany, and University of Warwick, UK. I obtained my Abitur (German high school diploma, matriculation examination) from Otto-Hahn-Gymnasium, Saarbrücken.
 
 
+### Personal life
+In my personal life, I am passionate about music and arts: I have been playing in various rock, pop, and jazz bands since the age of 14-15. For a couple of years now, I have also been painting (aquarelle) and printing (linocuts). Other than producing media, I also enjoy it passively: art galleries, concerts, plays, operas, books, but also video games. 
