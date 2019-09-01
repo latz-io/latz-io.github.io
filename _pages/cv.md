@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Research and education
-I have been a PhD student and a teaching assistant in the group of Elisabeth Ullmann since September 2016. At Technical University of Munich (TUM), I am part of the [International Graduate School of Science and Engineering](https://www.igsse.gs.tum.de/index.php?id=5) - more particularly in the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87). In this project, we look from different perspectives at Bayesian inverse problems with infinite dimensional parameter spaces. Those are the mathematics perspective, the computer science perspective, and the civil and computational engineering. 
+I have been a PhD student and a teaching assistant in the group of Elisabeth Ullmann since September 2016. At Technical University of Munich (TUM), I am part of the [International Graduate School of Science and Engineering](https://www.igsse.gs.tum.de/index.php?id=5) - more precisely: part of the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87). In this project, we look from different perspectives at Bayesian inverse problems with infinite dimensional parameter spaces: mathematics, computer science,  and civil engineering. 
 
 During my PhD, I have been able to stay and work with various other researchers. I list these stays below. 
  *  Courant Institute of Mathematical Sciences, New York, NY, USA. *(with Benjamin Peherstorfer, 2019-02-20 -- 2019-02-22)*
