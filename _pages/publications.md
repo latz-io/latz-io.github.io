@@ -9,7 +9,7 @@ author_profile: true
 
 [9] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2019)  
 **Bayesian inference with subset simulation in spaces of varying dimension**   
-*Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS19.bib), [preprint](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2019_uribe_et_al_JCP.pdf))  
+*Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS19.bib), [full text](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2019_uribe_et_al_JCP.pdf))  
 <details>
 <summary>Abstract</summary>
 
@@ -99,4 +99,11 @@ All presented techniques are numerically examined in several experiments. In par
 [1] Jonas Latz (2014)  
 **Äußere Hausdorff-Maße: Anwendungen und Eigenschaften**  
 Bachelor's thesis, University of Trier (in German).
+
+
+### Miscellaneous (not refereed)
+
+[1] Jonas Latz (2019)  
+**On the well-posedness of Bayesian inverse problems: The Gaussian noise case**  
+Oberwolfach Report 12/2019, p. 35-36, [DOI](https://doi.org/10.4171/OWR/2019/12). ([preliminary full text](https://arxiv.org/abs/1709.09763))  
 
