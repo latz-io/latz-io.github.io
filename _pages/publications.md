@@ -101,9 +101,12 @@ All presented techniques are numerically examined in several experiments. In par
 Bachelor's thesis, University of Trier (in German).
 
 
+___
+
+
 ### Miscellaneous (not refereed)
 
 [1] Jonas Latz (2019)  
 **On the well-posedness of Bayesian inverse problems: The Gaussian noise case**  
-Oberwolfach Report 12/2019, p. 35-36, [DOI](https://doi.org/10.4171/OWR/2019/12). ([preliminary full text](https://arxiv.org/abs/1709.09763))  
+Oberwolfach Report 12/2019, p. 35-36, [DOI](https://doi.org/10.4171/OWR/2019/12). ([preliminary full text](https://www.mfo.de/document/1911/preliminary_OWR_2019_12.pdf))  
 
