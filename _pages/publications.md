@@ -7,7 +7,7 @@ author_profile: true
 
 ### Preprints
 
-[9] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2019)  
+[10] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2019)  
 **Bayesian inference with subset simulation in spaces of varying dimension**   
 *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS19.bib), [full text](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2019_uribe_et_al_JCP.pdf))  
 <details>
@@ -16,7 +16,7 @@ author_profile: true
 Uncertainties associated with spatially varying parameters are modeled through random fields discretized into a finite number of random variables. Standard discretization methods, such as the Karhunen-Loève expansion,are based on functional representations that use series expansions for which the truncation order is specified a priori. However, when data is used to update random fields through Bayesian inference, a different truncation order might be necessary to adequately represent the posterior random field. This is an inference problem that not only requires the determination of the often high-dimensional set of coefficients, but also their dimension. In this paper, we develop a sequential algorithm to handle such inference settings, and propose a prior distribution for the dimension parameter that penalizes increasing dimensionality. The method is a variable-dimensional extension of the BUS (Bayesian Updating with Structural reliability methods)approach, combined with subset simulation (SuS). The key idea is to replace the standard Markov chain Monte Carlo (MCMC) algorithm within SuS by a trans-dimensional MCMC sampler that is able to populate the discrete-continuous parameter space. To address this task, we consider two types of MCMC algorithms that operate in a fixed-dimensional saturated parameter space. The performance of the proposed method with both MCMC variants is assessed numerically for two example problems: A 1D cantilever beam with spatially varying flexibility, and a 2D groundwater flow problem with uncertain hydraulic conductivity field.
 </details>
 
-[8] Ionuţ-Gabriel Farcaş, Jonas Latz, Elisabeth Ullmann, Tobias Neckel, Hans-Joachim Bungartz (2019)  
+[9] Ionuţ-Gabriel Farcaş, Jonas Latz, Elisabeth Ullmann, Tobias Neckel, Hans-Joachim Bungartz (2019)  
 **Multilevel Adaptive Sparse Leja Approximations for Bayesian Inverse Problems**  
 *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/FLUNB19.bib), [arXiv](https://arxiv.org/abs/1904.12204))  
 <details>
@@ -25,7 +25,7 @@ Uncertainties associated with spatially varying parameters are modeled through r
 Deterministic interpolation and quadrature methods are often unsuitable to address Bayesian inverse problems depending on computationally expensive forward mathematical models. While interpolation may give precise posterior approximations, deterministic quadrature is usually unable to efficiently investigate an informative and thus concentrated likelihood. This leads to a large number of required expensive evaluations of the mathematical model. To overcome these challenges, we formulate and test a multilevel adaptive sparse Leja algorithm. At each level, adaptive sparse grid interpolation and quadrature are used to approximate the posterior and perform all quadrature operations, respectively. Specifically, our algorithm uses coarse discretizations of the underlying mathematical model to investigate the parameter space and to identify areas of high posterior probability. Adaptive sparse grid algorithms are then used to place points in these areas, and ignore other areas of small posterior probability. The points are weighted Leja points. As the model discretization is coarse, the construction of the sparse grid is computationally efficient. On this sparse grid, the posterior measure can be approximated accurately with few expensive, fine model discretizations. The efficiency of the algorithm can be enhanced further by exploiting more than two discretization levels. We apply the proposed multilevel adaptive sparse Leja algorithm in numerical experiments involving elliptic inverse problems in 2D and 3D space, in which we compare it with Markov chain Monte Carlo sampling and a standard multilevel approximation.
 </details>
 
-[7] Jonas Latz (2019)  
+[8] Jonas Latz (2019)  
 **On the well-posedness of Bayesian inverse problems**  
 *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La19.bib), [arXiv](https://arxiv.org/abs/1902.10257))  
 <details>
@@ -37,7 +37,7 @@ The subject of this article is the introduction of a weaker concept of well-pose
 ___
 ### Refereed journal articles
 
-[6] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019)  
+[7] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019)  
 **Bayesian parameter identification in Cahn-Hilliard models for biological growth**  
 SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, [DOI](https://doi.org/10.1137/18M1210034). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLLU19.bib), [arXiv](https://arxiv.org/abs/1805.03304))  
 <details>
@@ -46,7 +46,7 @@ SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, [DOI](https://doi.org/10.1137/
 We consider the inverse problem of parameter estimation in a diffuse interface model for tumor growth. The model consists of a fourth-order Cahn-Hilliard system and contains three phenomenological parameters: the tumor proliferation rate, the nutrient consumption rate, and the chemotactic sensitivity. We study the inverse problem within the Bayesian framework and construct the likelihood and noise for two typical observation settings. One setting involves an infinite-dimensional data space where we observe the full tumor. In the second setting we observe only the tumor volume; hence the data space is finite-dimensional. We show the well-posedness of the posterior measure for both settings, building upon and improving the analytical results in [C. Kahle and K. F. Lam, Appl. Math. Optim., (2018)]. A numerical example involving synthetic data is presented in which the posterior measure is numerically approximated by the sequential Monte Carlo approach with tempering.
 </details>
 
-[5] Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann (2019)  
+[6] Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann (2019)  
 **Fast Sampling of parameterised Gaussian random fields**  
 Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, [DOI](https://doi.org/10.1016/j.cma.2019.02.003). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LEU19.bib), [arXiv](https://arxiv.org/abs/1804.11157))  
 <details>
@@ -55,7 +55,7 @@ Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, [DOI](https://doi.org/10
 Gaussian random fields are popular models for spatially varying uncertainties, arising for instance in geotechnical engineering, hydrology or image processing. A Gaussian random field is fully characterised by its mean function and covariance operator. In more complex models these can also be partially unknown. In this case we need to handle a family of Gaussian random fields indexed with hyperparameters. Sampling for a fixed configuration of hyperparameters is already very expensive due to the nonlocal nature of many classical covariance operators. Sampling from multiple configurations increases the total computational cost severely. In this report we employ parameterised Karhunen-Loève expansions for sampling. To reduce the cost we construct a reduced basis surrogate built from snapshots of Karhunen-Loève eigenvectors. In particular, we consider Matérn-type covariance operators with unknown correlation length and standard deviation. We suggest a linearisation of the covariance function and describe the associated online-offline decomposition. In numerical experiments we investigate the approximation error of the reduced eigenpairs. As an application we consider forward uncertainty propagation and Bayesian inversion with an elliptic partial differential equation where the logarithm of the diffusion coefficient is a parameterised Gaussian random field. In the Bayesian inverse problem we employ Markov chain Monte Carlo on the reduced space to generate samples from the posterior measure. All numerical experiments are conducted in 2D physical space, with non-separable covariance operators, and finite element grids with ~1E4 degrees of freedom.
 </details>
 
-[4] Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2018)  
+[5] Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2018)  
 **Multilevel Sequential² Monte Carlo for Bayesian Inverse Problems**  
 J. Comput. Phys. 368, p. 154-178, [DOI](https://doi.org/10.1016/j.jcp.2018.04.014). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LPU18.bib), [arXiv](https://arxiv.org/abs/1709.09763))  
 <details>
@@ -69,7 +69,7 @@ ___
 
 ### Refereed book chapters
 
-[3] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018)  
+[4] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018)  
 **A practical example for the non-linear Bayesian filtering of model parameters**  
 *Accepted.* ([github](https://github.com/BayesianLearning/PenduSMC), [.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/BLU18.bib), [arXiv](https://arxiv.org/abs/1807.08713)) 
 <details>
@@ -83,7 +83,7 @@ ___
 
 ### Theses
 
-[2] Jonas Latz (2016)  
+[3] Jonas Latz (2016)  
 **Bayes Linear Methods for Inverse Problems**  
 Master's thesis, University of Warwick ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La16.bib), [full text](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/Dissertation_Jonas_Latz.pdf)) 
 <details>
@@ -96,7 +96,7 @@ All presented techniques are numerically examined in several experiments. In par
 
 
 
-[1] Jonas Latz (2014)  
+[2] Jonas Latz (2014)  
 **Äußere Hausdorff-Maße: Anwendungen und Eigenschaften**  
 Bachelor's thesis, University of Trier (in German).
 
