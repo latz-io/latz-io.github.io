@@ -39,7 +39,7 @@ ___
 
 [7] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019)  
 **Bayesian parameter identification in Cahn-Hilliard models for biological growth**  
-SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, [DOI](https://doi.org/10.1137/18M1210034). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLLU19.bib), [arXiv](https://arxiv.org/abs/1805.03304))  
+SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, [doi](https://doi.org/10.1137/18M1210034). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLLU19.bib), [arXiv](https://arxiv.org/abs/1805.03304))  
 <details>
 <summary>Abstract</summary>
 
@@ -48,7 +48,7 @@ We consider the inverse problem of parameter estimation in a diffuse interface m
 
 [6] Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann (2019)  
 **Fast Sampling of parameterised Gaussian random fields**  
-Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, [DOI](https://doi.org/10.1016/j.cma.2019.02.003). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LEU19.bib), [arXiv](https://arxiv.org/abs/1804.11157))  
+Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, [doi](https://doi.org/10.1016/j.cma.2019.02.003). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LEU19.bib), [arXiv](https://arxiv.org/abs/1804.11157))  
 <details>
 <summary>Abstract</summary>
 
@@ -57,7 +57,7 @@ Gaussian random fields are popular models for spatially varying uncertainties, a
 
 [5] Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2018)  
 **Multilevel Sequential² Monte Carlo for Bayesian Inverse Problems**  
-J. Comput. Phys. 368, p. 154-178, [DOI](https://doi.org/10.1016/j.jcp.2018.04.014). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LPU18.bib), [arXiv](https://arxiv.org/abs/1709.09763))  
+J. Comput. Phys. 368, p. 154-178, [doi](https://doi.org/10.1016/j.jcp.2018.04.014). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LPU18.bib), [arXiv](https://arxiv.org/abs/1709.09763))  
 <details>
 <summary>Abstract</summary>
 
@@ -104,9 +104,9 @@ Bachelor's thesis, University of Trier (in German).
 ___
 
 
-### Miscellaneous (not refereed)
+### Miscellaneous (non-refereed)
 
 [1] Jonas Latz (2019)  
 **On the well-posedness of Bayesian inverse problems: The Gaussian noise case**  
-Oberwolfach Report 12/2019, p. 35-36, [DOI](https://doi.org/10.4171/OWR/2019/12). ([preliminary full text](https://www.mfo.de/document/1911/preliminary_OWR_2019_12.pdf))  
+Oberwolfach Report 12/2019, p. 35-36, [doi](https://doi.org/10.4171/OWR/2019/12). ([preliminary full text](https://www.mfo.de/document/1911/preliminary_OWR_2019_12.pdf))  
 
