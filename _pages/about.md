@@ -21,22 +21,22 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
   <tr>
     <td>uncertainty quantification</td>
     <td>Bayesian inference</td>
-    <td>inverse problems</td>
+    <td align="right">inverse problems</td>
   </tr>
   <tr>
         <td>well-posedness</td>
     <td>measures</td>
-       <td>Markov chain Monte Carlo</td>
+       <td align="right">Markov chain Monte Carlo</td>
   </tr>
   <tr>
     <td>particle filters</td>
     <td>multilevel methods</td>
-        <td>low-rank</td>
+        <td align="right">low-rank</td>
   </tr>
     <tr>
     <td>multilevel methods</td>
     <td>hierarchical models</td>
-  <td>(stochastic) partial differential equations</td>
+  <td align="right">(stochastic) partial differential equations</td>
   </tr>
 </table> 
 
