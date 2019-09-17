@@ -35,7 +35,7 @@ ___
   </tr>
     <tr>
     <td colspan="4" style="border: none;">Multilevel methods</td>
-    <td colspan="4" style="border: none;" align="center">Data</td>
+    <td colspan="4" style="border: none;" align="center">Data; biological, medical, geological,...</td>
   <td colspan="4" style="border: none;" align="right">(Stochastic) partial differential equations</td>
   </tr>
 </table> 
