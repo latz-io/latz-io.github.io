@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Jonas Latz"
-excerpt: "Jonas Latz"
+title: "Input/output"
+excerpt: "Input/output"
 author_profile: true
 redirect_from: 
   - /about/
