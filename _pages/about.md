@@ -11,28 +11,26 @@ redirect_from:
 I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](https://www-m2.ma.tum.de/bin/view/Allgemeines/Ullmann) at the Technical University of Munich. Our research is at the interface of numerical analysis, computational science, probability theory, and statistics. It focuses on methods that can be used to blend mathematical models with observational data.
 
 
-| **Keywords.**                  |                                |                                |
-| ------------------------------ | ------------------------------ | ------------------------------ |
-| uncertainty quantification     | Bayesian inference             | inverse problems               |
-| Markov chain Monte Carlo       | partial differential equations | deep models                    |
-| particle filters               | multilevel methods             | well-posedness                 |
-
-
  <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th><b> Keywords.</b></th>
+    <th> </th>
+    <th> </th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <th>uncertainty quantification</th>
+    <th>Bayesian inference</th>
+    <th>inverse problems</th>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Markov chain Monte Carlo</td>
+    <td>partial differential equations</td>
+    <td>deep models</td>
+  </tr>
+  <tr>
+    <td>particle filters</td>
+    <td>multilevel methods</td>
+    <td>well-posedness</td>
   </tr>
 </table> 
 
