@@ -31,7 +31,7 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
   <tr>
     <td colspan="4" style="border: none;">particle filters</td>
     <td colspan="4" style="border: none;" align="center">multilevel methods</td>
-        <td colspan="4" style="border: none;" align="right">low-rank</td>
+        <td colspan="4" style="border: none;" align="right">low-rank approximation</td>
   </tr>
     <tr>
     <td colspan="4" style="border: none;">multilevel methods</td>
