@@ -23,14 +23,14 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
     <th>inverse problems</th>
   </tr>
   <tr>
-    <td>Markov chain Monte Carlo</td>
-    <td>partial differential equations</td>
-    <td>deep models</td>
+    <th>Markov chain Monte Carlo</th>
+    <th>partial differential equations</th>
+    <th>deep models</th>
   </tr>
   <tr>
-    <td>particle filters</td>
-    <td>multilevel methods</td>
-    <td>well-posedness</td>
+    <th>particle filters</th>
+    <th>multilevel methods</th>
+    <th>well-posedness</th>
   </tr>
 </table> 
 
