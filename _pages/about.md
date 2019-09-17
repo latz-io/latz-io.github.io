@@ -14,6 +14,13 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
 |uncertainty quantification | Bayesian statistics | inverse problems |
 |Monte Carlo | partial differential equations | Markov chain Monte Carlo |  
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 This webpage contains information about my research output in [academic journals](/publications/) and at [academic meetings](/talks/). Moreover, I have summarised my [teaching experience](/teaching/) and my [personal background](/cv/). Input of any kind is highly appreciated; [please contact me](/contact/).
 
 &nbsp; &nbsp; &nbsp;
