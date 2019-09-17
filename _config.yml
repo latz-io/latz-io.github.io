@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Jonas Latz  / *.io"
+title                    : "Jonas Latz"
 title_separator          : ""
 name                     : &name "Jonas Latz"
 description              : &description "PhD student, applied mathematics"
