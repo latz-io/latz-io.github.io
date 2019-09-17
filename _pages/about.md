@@ -34,7 +34,7 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
     <td>particle filters</td>
     <td>multilevel methods</td>
     <td>well-posedness</td>
-    <td>machine learning</td>
+    <td>random fields</td>
   </tr>
 </table> 
 
