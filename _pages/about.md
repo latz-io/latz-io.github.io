@@ -16,7 +16,6 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
     <th>Keywords.</th>
     <th> </th>
     <th> </th>
-    <th> </th>
   </tr>
   <tr>
     <td>uncertainty quantification</td>
