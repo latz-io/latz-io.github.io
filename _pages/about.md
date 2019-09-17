@@ -12,7 +12,7 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
 
 
 | **Keywords:**                  |                                |                                |
-| ------------------------------ |:------------------------------:| ------------------------------:|
+| ------------------------------ | ------------------------------ | ------------------------------ |
 | uncertainty quantification     | Bayesian statistics            | inverse problems               |
 | Monte Carlo                    | partial differential equations |   Markov chain Monte Carlo     |
 
