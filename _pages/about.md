@@ -25,17 +25,17 @@ ___
   </tr>
   <tr>
         <td colspan="4" style="border: none;">well-posedness</td>
-    <td colspan="4" style="border: none;" align="center">measures</td>
+    <td colspan="4" style="border: none;" align="center">measure theory</td>
        <td colspan="4" style="border: none;" align="right">Markov chain Monte Carlo</td>
   </tr>
   <tr>
     <td colspan="4" style="border: none;">particle filters</td>
-    <td colspan="4" style="border: none;" align="center">multilevel methods</td>
+    <td colspan="4" style="border: none;" align="center">hierarchical models</td>
         <td colspan="4" style="border: none;" align="right">low-rank approximation</td>
   </tr>
     <tr>
     <td colspan="4" style="border: none;">multilevel methods</td>
-    <td colspan="4" style="border: none;" align="center">hierarchical models</td>
+    <td colspan="4" style="border: none;" align="center">machine learning</td>
   <td colspan="4" style="border: none;" align="right">(stochastic) partial differential equations</td>
   </tr>
 </table> 
