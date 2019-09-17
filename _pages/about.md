@@ -27,7 +27,7 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
   <tr>
     <td>(stochastic) partial differential equations</td>
     <td>hierarchical models</td>
-    <td>white noise</td>
+    <td>low-rank</td>
     <td>measures</td>
   </tr>
   <tr>
