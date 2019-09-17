@@ -13,9 +13,9 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
 
 | **Keywords.**                  |                                |                                |
 | ------------------------------ | ------------------------------ | ------------------------------ |
-| uncertainty quantification     | Bayesian statistics            | multilevel method              |
-| Monte Carlo                    | partial differential equations | deep neural netwoks            |
-| inverse problems               | Markov chain Monte Carlo       | particle filters               |
+| uncertainty quantification     | Bayesian inference             | inverse problems               |
+| Markov chain Monte Carlo       | partial differential equations | deep models                    |
+| particle filters               | multilevel methods             | well-posedness                 |
 
 This webpage contains information about my research output in [academic journals](/publications/) and at [academic meetings](/talks/). Moreover, I have summarised my [teaching experience](/teaching/) and my [personal background](/cv/). Input of any kind is highly appreciated; [please contact me](/contact/).
 
