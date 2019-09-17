@@ -35,7 +35,7 @@ ___
   </tr>
     <tr>
     <td colspan="4" style="border: none;">multilevel methods</td>
-    <td colspan="4" style="border: none;" align="center">machine learning</td>
+    <td colspan="4" style="border: none;" align="center">data</td>
   <td colspan="4" style="border: none;" align="right">(stochastic) partial differential equations</td>
   </tr>
 </table> 
