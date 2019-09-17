@@ -19,24 +19,24 @@ ___
     <th colspan="4" style="border: none;"> </th>
   </tr>
   <tr>
-    <td colspan="4" style="border: none;">uncertainty quantification</td>
+    <td colspan="4" style="border: none;">Uncertainty quantification</td>
     <td colspan="4" style="border: none;" align="center">Bayesian inference</td>
-    <td colspan="4" style="border: none;" align="right">inverse problems</td>
+    <td colspan="4" style="border: none;" align="right">Inverse problems</td>
   </tr>
   <tr>
-        <td colspan="4" style="border: none;">well-posedness</td>
-    <td colspan="4" style="border: none;" align="center">measure theory</td>
+        <td colspan="4" style="border: none;">Well-posedness</td>
+    <td colspan="4" style="border: none;" align="center">Measure theory</td>
        <td colspan="4" style="border: none;" align="right">Markov chain Monte Carlo</td>
   </tr>
   <tr>
     <td colspan="4" style="border: none;">particle filters</td>
-    <td colspan="4" style="border: none;" align="center">hierarchical models</td>
-        <td colspan="4" style="border: none;" align="right">low-rank approximation</td>
+    <td colspan="4" style="border: none;" align="center">Hierarchical models</td>
+        <td colspan="4" style="border: none;" align="right">Low-rank approximation</td>
   </tr>
     <tr>
-    <td colspan="4" style="border: none;">multilevel methods</td>
-    <td colspan="4" style="border: none;" align="center">data</td>
-  <td colspan="4" style="border: none;" align="right">(stochastic) partial differential equations</td>
+    <td colspan="4" style="border: none;">Multilevel methods</td>
+    <td colspan="4" style="border: none;" align="center">Data</td>
+  <td colspan="4" style="border: none;" align="right">(Stochastic) Partial Differential Equations</td>
   </tr>
 </table> 
 
