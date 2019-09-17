@@ -13,29 +13,29 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
 
  <table style="width:100%; border: none;" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <th>Keywords.</th>
-    <th> </th>
-    <th> </th>
+    <th colspan="4" style="border: none;">Keywords.</th>
+    <th colspan="4" style="border: none;"> </th>
+    <th colspan="4" style="border: none;"> </th>
   </tr>
   <tr>
-    <td>uncertainty quantification</td>
-    <td align="center">Bayesian inference</td>
-    <td align="right">inverse problems</td>
+    <td colspan="4" style="border: none;">uncertainty quantification</td>
+    <td colspan="4" style="border: none;" align="center">Bayesian inference</td>
+    <td colspan="4" style="border: none;" align="right">inverse problems</td>
   </tr>
   <tr>
-        <td>well-posedness</td>
-    <td align="center">measures</td>
-       <td align="right">Markov chain Monte Carlo</td>
+        <td colspan="4" style="border: none;">well-posedness</td>
+    <td colspan="4" style="border: none;" align="center">measures</td>
+       <td colspan="4" style="border: none;" align="right">Markov chain Monte Carlo</td>
   </tr>
   <tr>
-    <td>particle filters</td>
-    <td align="center">multilevel methods</td>
-        <td align="right">low-rank</td>
+    <td colspan="4" style="border: none;">particle filters</td>
+    <td colspan="4" style="border: none;" align="center">multilevel methods</td>
+        <td colspan="4" style="border: none;" align="right">low-rank</td>
   </tr>
     <tr>
-    <td>multilevel methods</td>
-    <td align="center">hierarchical models</td>
-  <td align="right">(stochastic) partial differential equations</td>
+    <td colspan="4" style="border: none;">multilevel methods</td>
+    <td colspan="4" style="border: none;" align="center">hierarchical models</td>
+  <td colspan="4" style="border: none;" align="right">(stochastic) partial differential equations</td>
   </tr>
 </table> 
 
