@@ -11,7 +11,7 @@ redirect_from:
 I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](https://www-m2.ma.tum.de/bin/view/Allgemeines/Ullmann) at the Technical University of Munich. Our research is at the interface of numerical analysis, computational science, probability theory, and statistics. It focuses on methods that can be used to blend mathematical models with observational data.
 
 
- <table style="width:100%", border="1">
+ <table style="width:100%", border="0">
   <tr>
     <th><b> Keywords.</b></th>
     <th> </th>
