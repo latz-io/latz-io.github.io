@@ -30,12 +30,12 @@ ___
   </tr>
   <tr>
     <td colspan="4" style="border: none;">Particle filters</td>
-    <td colspan="4" style="border: none;" align="center">Hierarchical models</td>
+        <td colspan="4" style="border: none;" align="center">Data; biological, medical, geological,...</td>
         <td colspan="4" style="border: none;" align="right">Low-rank approximation</td>
   </tr>
     <tr>
     <td colspan="4" style="border: none;">Multilevel methods</td>
-    <td colspan="4" style="border: none;" align="center">Data; biological, medical, geological,...</td>
+          <td colspan="4" style="border: none;" align="center">Hierarchical models</td>
   <td colspan="4" style="border: none;" align="right">(Stochastic) partial differential equations</td>
   </tr>
 </table> 
