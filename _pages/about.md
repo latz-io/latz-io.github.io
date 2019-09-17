@@ -29,7 +29,7 @@ ___
        <td colspan="4" style="border: none;" align="right">Markov chain Monte Carlo</td>
   </tr>
   <tr>
-    <td colspan="4" style="border: none;">particle filters</td>
+    <td colspan="4" style="border: none;">Particle filters</td>
     <td colspan="4" style="border: none;" align="center">Hierarchical models</td>
         <td colspan="4" style="border: none;" align="right">Low-rank approximation</td>
   </tr>
