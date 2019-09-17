@@ -13,7 +13,7 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
 
  <table style="width:100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <th>Keywords, interests</th>
+    <th>Keywords.</th>
     <th> </th>
     <th> </th>
     <th> </th>
@@ -22,19 +22,21 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
     <td>uncertainty quantification</td>
     <td>Bayesian inference</td>
     <td>inverse problems</td>
-    <td>Markov chain Monte Carlo</td>
   </tr>
   <tr>
-    <td>(stochastic) partial differential equations</td>
-    <td>hierarchical models</td>
-    <td>low-rank</td>
+        <td>well-posedness</td>
     <td>measures</td>
+       <td>Markov chain Monte Carlo</td>
   </tr>
   <tr>
     <td>particle filters</td>
     <td>multilevel methods</td>
-    <td>well-posedness</td>
-    <td>random fields</td>
+        <td>low-rank</td>
+  </tr>
+    <tr>
+    <td>multilevel methods</td>
+    <td>hierarchical models</td>
+  <td>(stochastic) partial differential equations</td>
   </tr>
 </table> 
 
