@@ -13,7 +13,8 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
 
  <table style="width:100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <th><b> Keywords.</b></th>
+    <th>Keywords, interests</th>
+    <th> </th>
     <th> </th>
     <th> </th>
   </tr>
@@ -21,16 +22,19 @@ I am currently a mathematics PhD student in the group of [Elisabeth Ullmann](htt
     <td>uncertainty quantification</td>
     <td>Bayesian inference</td>
     <td>inverse problems</td>
+    <td>Markov chain Monte Carlo</td>
   </tr>
   <tr>
-    <td>Markov chain Monte Carlo</td>
-    <td>partial differential equations</td>
-    <td>deep models</td>
+    <td>(stochastic) partial differential equations</td>
+    <td>hierarchical models</td>
+    <td>white noise</td>
+    <td>measures</td>
   </tr>
   <tr>
     <td>particle filters</td>
     <td>multilevel methods</td>
     <td>well-posedness</td>
+    <td>machine learning</td>
   </tr>
 </table> 
 
