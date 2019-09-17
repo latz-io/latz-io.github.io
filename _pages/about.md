@@ -25,7 +25,7 @@ ___
   </tr>
   <tr>
         <td colspan="4" style="border: none;">Well-posedness</td>
-    <td colspan="4" style="border: none;" align="center">Measure theory</td>
+    <td colspan="4" style="border: none;" align="center">Measures and integration</td>
        <td colspan="4" style="border: none;" align="right">Markov chain Monte Carlo</td>
   </tr>
   <tr>
