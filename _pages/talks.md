@@ -12,7 +12,7 @@ Optimization and Inversion under Uncertainty](https://www.ricam.oeaw.ac.at/specs
 
 ## Past  
 A map of all the meetings I have participated in:
-<iframe style="width: 100%; padding-bottom: 75%;" src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en"  ></iframe>
+<iframe style="width: 100%; height: 600pt;" src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en"  ></iframe>
 
 ### 2019
  -  Talk @ [39th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2019)](https://www.ipp.mpg.de/maxent2019), Max Planck Institute for Plasma Physics, Garching, Germany. *(2019-06-30 -- 2019-07-05)*  
