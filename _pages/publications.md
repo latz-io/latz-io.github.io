@@ -7,7 +7,7 @@ author_profile: true
 
 ### Preprints
 
-[11] Fabian Wagner, Jonas Latz, Iason Papaioannou, Jonas Latz, Elisabeth Ullmann (2019)  
+[11] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2019)  
 **Multilevel Sequential Importance Sampling for Rare Event Estimation**   
 *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/WLPU19.bib), [arXiv](https://arxiv.org/abs/1909.07680))  
 <details>
