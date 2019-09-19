@@ -19,7 +19,7 @@ During my PhD, I have been able to stay and work with various other researchers.
  *  Isaac Newton Institute, University of Cambridge, UK. *(2018-02-05 -- 2018-02-23)*
  *  Chair of Mathematical Optimization, Universität Mannheim, Germany. *(with Claudia Schillings, 2017-11-20 -- 2017-11-22)*
 
-Before moving to Munich as a PhD student, I studied Mathematics and Scientific Computing at University of Trier, Germany, and University of Warwick, UK. I obtained my Abitur (German high school diploma, matriculation examination) from Otto-Hahn-Gymnasium, Saarbrücken.
+Before moving to Munich as a PhD student, I studied Mathematics and Scientific Computing at [University of Trier, Germany](https://www.uni-trier.de/index.php?id=2020), and [University of Warwick, UK](https://csc.warwick.ac.uk). I obtained my Abitur (German high school diploma, matriculation examination) from [Otto-Hahn-Gymnasium, Saarbrücken, Germany](https://www.ohg-sb.de).
 
 
 ### Personal life
