@@ -5,10 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Upcoming  
- -  [RICAM Special Semester Optimization, Workshop 3:
+## Upcoming 
+ -  Participant @ Banach Centre -- Oberwolfach Graduate Seminar, Johann Radon Institute for Applied and Computational Mathematics, Linz, Germany. *(2019-11-17 -- 2019-11-23)*
+ -  Poster @ [RICAM Special Semester Optimization, Workshop 3:
 Optimization and Inversion under Uncertainty](https://www.ricam.oeaw.ac.at/specsem/specsem2019/workshop3/), Johann Radon Institute for Applied and Computational Mathematics, Linz, Germany. *(2019-11-11 -- 2019-11-15)*
- -  [Visit and talk](http://talks.cam.ac.uk/talk/index/130309), Cambridge Image Analysis Group, Department of Applied Mathematics and Theoretical Physics, University of Cambridge, United Kingdom. *(2019-09-30 -- 2019-10-04)*
+ -  Visit & Talk @ [Cambridge Image Analysis Group](http://talks.cam.ac.uk/talk/index/130309), Department of Applied Mathematics and Theoretical Physics, University of Cambridge, United Kingdom. *(2019-09-30 -- 2019-10-04)*
 
 ## Past  
 A map of all the meetings I have participated in:
