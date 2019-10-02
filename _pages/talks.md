@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Upcoming 
- -  Participant @ Banach Centre -- Oberwolfach Graduate Seminar, Johann Radon Institute for Applied and Computational Mathematics, Będlewo, Poland. *(2019-11-17 -- 2019-11-23)*
+ -  Participant @ Banach Centre -- Oberwolfach Graduate Seminar, Banach Center, Będlewo, Poland. *(2019-11-17 -- 2019-11-23)*
  -  Poster @ [RICAM Special Semester Optimization, Workshop 3:
 Optimization and Inversion under Uncertainty](https://www.ricam.oeaw.ac.at/specsem/specsem2019/workshop3/), Johann Radon Institute for Applied and Computational Mathematics, Linz, Austria. *(2019-11-11 -- 2019-11-15)*
  -  Visit & Talk @ [Cambridge Image Analysis Group](http://talks.cam.ac.uk/talk/index/130309), Department of Applied Mathematics and Theoretical Physics, University of Cambridge, United Kingdom. *(2019-09-30 -- 2019-10-04)*
