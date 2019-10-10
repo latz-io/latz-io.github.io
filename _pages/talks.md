@@ -9,13 +9,13 @@ author_profile: true
  -  Participant @ Banach Center -- Oberwolfach Graduate Seminar: Mathematics of Deep Learning, Banach Center, Będlewo, Poland. *(2019-11-17 -- 2019-11-23)*
  -  Poster @ [RICAM Special Semester Optimization, Workshop 3:
 Optimization and Inversion under Uncertainty](https://www.ricam.oeaw.ac.at/specsem/specsem2019/workshop3/), Johann Radon Institute for Applied and Computational Mathematics, Linz, Austria. *(2019-11-11 -- 2019-11-15)*
- -  Visit & Talk @ [Cambridge Image Analysis Group](http://talks.cam.ac.uk/talk/index/130309), Department of Applied Mathematics and Theoretical Physics, University of Cambridge, United Kingdom. *(2019-09-30 -- 2019-10-04)*
 
 ## Past  
 A map of all the meetings I have participated in:
 <iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en"  ></iframe>
 
 ### 2019
+ -  Visit & Talk @ [Cambridge Image Analysis Group](http://talks.cam.ac.uk/talk/index/130309), Department of Applied Mathematics and Theoretical Physics, University of Cambridge, United Kingdom. *(2019-09-30 -- 2019-10-04)*
  -  Talk @ [39th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2019)](https://www.ipp.mpg.de/maxent2019), Max Planck Institute for Plasma Physics, Garching, Germany. *(2019-06-30 -- 2019-07-05)*  
  -  Talk @ [Oberwolfach Workshop 1911 "Uncertainty Quantification"](https://www.mfo.de/occasion/1911/www_view), Mathematisches Forschungsinstitut Oberwolfach, Germany.  *(2019-03-10 -- 2019-03-16)* 
  -  Talk & Organisation of a Minisymposium @ [SIAM Conference on Computational Science and Engineering (CSE19)](https://www.siam.org/conferences/CM/Main/cse19), Spokane, WA, USA. *([Video](https://www.pathlms.com/siam/courses/10878/sections/14372/video_presentations/127511), 2019-02-25 -- 2019-03-01)*  
