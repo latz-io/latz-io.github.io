@@ -7,7 +7,7 @@ redirect_from:
   - /input
 ---
 
-Please send  comments, critiques, hints, ideas, and inquiries to [jonas.latz@tum.de](mailto:jonas.latz@tum.de). 
+Please send  comments, critiques, hints, ideas, and inquiries to [jonas.latz[obvious symbol]tum.de](mailto:jonas.latz@tum.de). 
 Alternatively, you can reach me classically by mail:
 
 Jonas Latz   
