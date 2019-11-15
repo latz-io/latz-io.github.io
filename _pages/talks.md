@@ -7,15 +7,15 @@ author_profile: true
 
 ## Upcoming 
  -  Talk & Organisation of a Minisymposium @ [SIAM Conference on Uncertainty Quantification (UQ20)](https://siam-uq20.ma.tum.de/), Munich, Germany. *(2020-03-24 -- 2020-03-27)*
- -  Participant @ Banach Center -- Oberwolfach Graduate Seminar: Mathematics of Deep Learning, Banach Center, Będlewo, Poland. *(2019-11-17 -- 2019-11-23)*
- -  Poster @ [RICAM Special Semester Optimization, Workshop 3:
-Optimization and Inversion under Uncertainty](https://www.ricam.oeaw.ac.at/specsem/specsem2019/workshop3/), Johann Radon Institute for Applied and Computational Mathematics, Linz, Austria. *(2019-11-11 -- 2019-11-15)*
+
 
 ## Past  
 A map of all the meetings I have participated in:
 <iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en"  ></iframe>
 
 ### 2019
+ -  Poster @ [RICAM Special Semester Optimization, Workshop 3:
+Optimization and Inversion under Uncertainty](https://www.ricam.oeaw.ac.at/specsem/specsem2019/workshop3/), Johann Radon Institute for Applied and Computational Mathematics, Linz, Austria. *(2019-11-11 -- 2019-11-15)*
  -  Visit & Talk @ [Cambridge Image Analysis Group](http://talks.cam.ac.uk/talk/index/130309), Department of Applied Mathematics and Theoretical Physics, University of Cambridge, United Kingdom. *(2019-09-30 -- 2019-10-04)*
  -  Talk @ [39th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2019)](https://www.ipp.mpg.de/maxent2019), Max Planck Institute for Plasma Physics, Garching, Germany. *(2019-06-30 -- 2019-07-05)*  
  -  Talk @ [Oberwolfach Workshop 1911 "Uncertainty Quantification"](https://www.mfo.de/occasion/1911/www_view), Mathematisches Forschungsinstitut Oberwolfach, Germany.  *(2019-03-10 -- 2019-03-16)* 
