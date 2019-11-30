@@ -7,6 +7,8 @@ author_profile: true
 
 ## Upcoming 
  -  Talk & Organisation of a Minisymposium @ [SIAM Conference on Uncertainty Quantification (UQ20)](https://siam-uq20.ma.tum.de/), Munich, Germany. *(2020-03-24 -- 2020-03-27)*
+ -  Visit & Talk @ [ANCHP](https://anchp.epfl.ch), École Polytechnique Fédérale de Lausanne, Switzerland.  *(2020-02-10 -- 2020-02-14)* 
+
 
 
 ## Past  
