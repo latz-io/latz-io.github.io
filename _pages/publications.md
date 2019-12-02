@@ -41,7 +41,7 @@ ___
 
 [8] Ionuţ-Gabriel Farcaş, Jonas Latz, Elisabeth Ullmann, Tobias Neckel, Hans-Joachim Bungartz (2019)  
 **Multilevel Adaptive Sparse Leja Approximations for Bayesian Inverse Problems**  
-SIAM J. Sci. Comput. *(accepted)* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/FLUNB19.bib), [arXiv](https://arxiv.org/abs/1904.12204))  
+*Accepted in* SIAM J. Sci. Comput. ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/FLUNB19.bib), [arXiv](https://arxiv.org/abs/1904.12204))  
 <details>
 <summary>Abstract</summary>
 
