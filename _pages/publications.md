@@ -7,9 +7,7 @@ author_profile: true
 
 ### Preprints
 
-[12] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2019)  
-**Multilevel Sequential Importance Sampling for Rare Event Estimation**   
-*Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/WLPU19.bib), [arXiv](https://arxiv.org/abs/1909.07680))  
+[12] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2019):  **Multilevel Sequential Importance Sampling for Rare Event Estimation.** *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/WLPU19.bib), [arXiv](https://arxiv.org/abs/1909.07680))  
 <details>
 <summary>Abstract</summary>
 
@@ -17,9 +15,7 @@ author_profile: true
 </details>
 
 
-[11] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2019)  
-**Bayesian inference with subset simulation in spaces of varying dimension**   
-*Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS19.bib), [full text](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2019_uribe_et_al_JCP.pdf))  
+[11] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2019): **Bayesian inference with subset simulation in spaces of varying dimension.**  *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS19.bib), [full text](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2019_uribe_et_al_JCP.pdf))  
 <details>
 <summary>Abstract</summary>
 
@@ -29,9 +25,7 @@ Uncertainties associated with spatially varying parameters are modeled through r
 ___
 ### Refereed journal articles and book chapters
 
-[10] Jonas Latz (2019)  
-**On the well-posedness of Bayesian inverse problems**  
-*Accepted in* SIAM/ASA J. Uncertain. Quantif. ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La19.bib), [arXiv](https://arxiv.org/abs/1902.10257))  
+[10] Jonas Latz (2019): **On the well-posedness of Bayesian inverse problems.** *Accepted in* SIAM/ASA J. Uncertain. Quantif. ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La19.bib), [arXiv](https://arxiv.org/abs/1902.10257))  
 <details>
 <summary>Abstract</summary>
 
@@ -39,9 +33,7 @@ The subject of this article is the introduction of a new concept of well-posedne
 </details>
 
 
-[9] Ionuţ-Gabriel Farcaş, Jonas Latz, Elisabeth Ullmann, Tobias Neckel, Hans-Joachim Bungartz (2019)  
-**Multilevel Adaptive Sparse Leja Approximations for Bayesian Inverse Problems**  
-*Accepted in* SIAM J. Sci. Comput. ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/FLUNB19.bib), [arXiv](https://arxiv.org/abs/1904.12204))  
+[9] Ionuţ-Gabriel Farcaş, Jonas Latz, Elisabeth Ullmann, Tobias Neckel, Hans-Joachim Bungartz (2019): **Multilevel Adaptive Sparse Leja Approximations for Bayesian Inverse Problems.** *Accepted in* SIAM J. Sci. Comput. ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/FLUNB19.bib), [arXiv](https://arxiv.org/abs/1904.12204))  
 <details>
 <summary>Abstract</summary>
 
@@ -49,9 +41,7 @@ Deterministic interpolation and quadrature methods are often unsuitable to addre
 </details>
 
 
-[8] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019)  
-**Bayesian parameter identification in Cahn-Hilliard models for biological growth**  
-SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, [doi](https://doi.org/10.1137/18M1210034). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLLU19.bib), [arXiv](https://arxiv.org/abs/1805.03304))  
+[8] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019): **Bayesian parameter identification in Cahn-Hilliard models for biological growth.** SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, [doi](https://doi.org/10.1137/18M1210034). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLLU19.bib), [arXiv](https://arxiv.org/abs/1805.03304))  
 <details>
 <summary>Abstract</summary>
 
@@ -59,9 +49,7 @@ We consider the inverse problem of parameter estimation in a diffuse interface m
 </details>
 
 
-[7] Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann (2019)  
-**Fast Sampling of parameterised Gaussian random fields**  
-Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, [doi](https://doi.org/10.1016/j.cma.2019.02.003). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LEU19.bib), [arXiv](https://arxiv.org/abs/1804.11157))  
+[7] Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann (2019): **Fast Sampling of parameterised Gaussian random fields.** Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, [doi](https://doi.org/10.1016/j.cma.2019.02.003). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LEU19.bib), [arXiv](https://arxiv.org/abs/1804.11157))  
 <details>
 <summary>Abstract</summary>
 
@@ -69,9 +57,7 @@ Gaussian random fields are popular models for spatially varying uncertainties, a
 </details>
 
 
-[6] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018)  
-**A practical example for the non-linear Bayesian filtering of model parameters**  
-*Accepted.* ([github](https://github.com/BayesianLearning/PenduSMC), [.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/BLU18.bib), [arXiv](https://arxiv.org/abs/1807.08713)) 
+[6] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018): **A practical example for the non-linear Bayesian filtering of model parameters.** *Accepted.* ([github](https://github.com/BayesianLearning/PenduSMC), [.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/BLU18.bib), [arXiv](https://arxiv.org/abs/1807.08713)) 
 <details>
 <summary>Abstract</summary>
 
@@ -79,9 +65,7 @@ In this tutorial we consider the non-linear Bayesian filtering of static paramet
 </details>
 
 
-[5] Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2018)  
-**Multilevel Sequential² Monte Carlo for Bayesian Inverse Problems**  
-J. Comput. Phys. 368, p. 154-178, [doi](https://doi.org/10.1016/j.jcp.2018.04.014). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LPU18.bib), [arXiv](https://arxiv.org/abs/1709.09763))  
+[5] Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2018): **Multilevel Sequential² Monte Carlo for Bayesian Inverse Problems.**  J. Comput. Phys. 368, p. 154-178, [doi](https://doi.org/10.1016/j.jcp.2018.04.014). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LPU18.bib), [arXiv](https://arxiv.org/abs/1709.09763))  
 <details>
 <summary>Abstract</summary>
 
@@ -92,9 +76,7 @@ ___
 
 ### Theses
 
-[4] Jonas Latz (2019)  
-**Exploring and exploiting hierarchies in Bayesian inverse problems**  
-Doctoral thesis, Technical University of Munich ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La19b.bib), [full text](https://mediatum.ub.tum.de/?id=1518069)) 
+[4] Jonas Latz (2019): **Exploring and exploiting hierarchies in Bayesian inverse problems.**  Doctoral thesis, Technical University of Munich ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La19b.bib), [full text](https://mediatum.ub.tum.de/?id=1518069)) 
 <details>
 <summary>Abstract</summary>
   
@@ -106,9 +88,7 @@ The solution of a Bayesian inverse problem is the posterior distribution. Sampli
 </details>
 
 
-[3] Jonas Latz (2016)  
-**Bayes Linear Methods for Inverse Problems**  
-Master's thesis, University of Warwick ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La16.bib), [full text](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/Dissertation_Jonas_Latz.pdf)) 
+[3] Jonas Latz (2016): **Bayes Linear Methods for Inverse Problems.**  Master's thesis, University of Warwick ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La16.bib), [full text](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/Dissertation_Jonas_Latz.pdf)) 
 <details>
 <summary>Abstract</summary>
   
@@ -118,9 +98,7 @@ All presented techniques are numerically examined in several experiments. In par
 </details>
 
 
-[2] Jonas Latz (2014)  
-**Äußere Hausdorff-Maße: Anwendungen und Eigenschaften**  
-Bachelor's thesis, University of Trier (in German).
+[2] Jonas Latz (2014): **Äußere Hausdorff-Maße: Anwendungen und Eigenschaften.**  Bachelor's thesis, University of Trier (in German).
 
 
 ___
@@ -128,7 +106,5 @@ ___
 
 ### Miscellaneous (non-refereed)
 
-[1] Jonas Latz (2019)  
-**On the well-posedness of Bayesian inverse problems: The Gaussian noise case**  
-Oberwolfach Report 12/2019, p. 35-36, [doi](https://doi.org/10.4171/OWR/2019/12). ([preliminary full text](https://www.mfo.de/document/1911/preliminary_OWR_2019_12.pdf))  
+[1] Jonas Latz (2019): **On the well-posedness of Bayesian inverse problems: The Gaussian noise case.** Oberwolfach Report 12/2019, p. 35-36, [doi](https://doi.org/10.4171/OWR/2019/12). ([preliminary full text](https://www.mfo.de/document/1911/preliminary_OWR_2019_12.pdf))  
 
