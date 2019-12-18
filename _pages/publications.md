@@ -50,7 +50,7 @@ Deterministic interpolation and quadrature methods are often unsuitable to addre
 
 
 [7] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019)  
-**Bayesian parameter identification in Cahn-Hilliard Models for biological growth**  
+**Bayesian parameter identification in Cahn-Hilliard models for biological growth**  
 SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, [doi](https://doi.org/10.1137/18M1210034). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLLU19.bib), [arXiv](https://arxiv.org/abs/1805.03304))  
 <details>
 <summary>Abstract</summary>
