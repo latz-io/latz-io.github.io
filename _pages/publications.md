@@ -26,18 +26,18 @@ author_profile: true
 Uncertainties associated with spatially varying parameters are modeled through random fields discretized into a finite number of random variables. Standard discretization methods, such as the Karhunen-Loève expansion,are based on functional representations that use series expansions for which the truncation order is specified a priori. However, when data is used to update random fields through Bayesian inference, a different truncation order might be necessary to adequately represent the posterior random field. This is an inference problem that not only requires the determination of the often high-dimensional set of coefficients, but also their dimension. In this paper, we develop a sequential algorithm to handle such inference settings, and propose a prior distribution for the dimension parameter that penalizes increasing dimensionality. The method is a variable-dimensional extension of the BUS (Bayesian Updating with Structural reliability methods)approach, combined with subset simulation (SuS). The key idea is to replace the standard Markov chain Monte Carlo (MCMC) algorithm within SuS by a trans-dimensional MCMC sampler that is able to populate the discrete-continuous parameter space. To address this task, we consider two types of MCMC algorithms that operate in a fixed-dimensional saturated parameter space. The performance of the proposed method with both MCMC variants is assessed numerically for two example problems: A 1D cantilever beam with spatially varying flexibility, and a 2D groundwater flow problem with uncertain hydraulic conductivity field.
 </details>
 
+___
+### Refereed journal articles
 
 [9] Jonas Latz (2019)  
 **On the well-posedness of Bayesian inverse problems**  
-*Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La19.bib), [arXiv](https://arxiv.org/abs/1902.10257))  
+*Accepted in* SIAM/ASA J. Uncertain. Quantif. ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La19.bib), [arXiv](https://arxiv.org/abs/1902.10257))  
 <details>
 <summary>Abstract</summary>
 
 The subject of this article is the introduction of a new concept of well-posedness of Bayesian inverse problems. The conventional concept of (Lipschitz, Hellinger) well-posedness in [Stuart 2010, Acta Numerica 19, pp. 451-559] is difficult to verify in practice and may be inappropriate in some contexts. Our concept simply replaces the Lipschitz continuity of the posterior measure in the Hellinger distance by continuity in an appropriate distance between probability measures. Aside from the Hellinger distance, we investigate well-posedness with respect to  weak convergence, the total variation distance, the Wasserstein distance, and also the Kullback--Leibler divergence. We demonstrate that the weakening to continuity is tolerable and that the generalisation to other distances is important. The main results of this article are proofs of well-posedness with respect to some of the aforementioned distances for large classes of Bayesian inverse problems. Here, little or no information about the underlying model is necessary; making these results particularly interesting for practitioners using black-box models. We illustrate our findings with numerical examples motivated from machine learning and image processing.
 </details>
 
-___
-### Refereed journal articles
 
 [8] Ionuţ-Gabriel Farcaş, Jonas Latz, Elisabeth Ullmann, Tobias Neckel, Hans-Joachim Bungartz (2019)  
 **Multilevel Adaptive Sparse Leja Approximations for Bayesian Inverse Problems**  
@@ -50,7 +50,7 @@ Deterministic interpolation and quadrature methods are often unsuitable to addre
 
 
 [7] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019)  
-**Bayesian parameter identification in Cahn-Hilliard models for biological growth**  
+**Bayesian parameter identification in Cahn-Hilliard Models for biological growth**  
 SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, [doi](https://doi.org/10.1137/18M1210034). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLLU19.bib), [arXiv](https://arxiv.org/abs/1805.03304))  
 <details>
 <summary>Abstract</summary>
