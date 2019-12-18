@@ -76,7 +76,7 @@ ___
 
 ### Theses
 
-[4] Jonas Latz (2019): **Exploring and exploiting hierarchies in Bayesian inverse problems.**  Doctoral thesis, Technical University of Munich ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La19b.bib), [full text](https://mediatum.ub.tum.de/?id=1518069)) 
+[4] Jonas Latz (2019): **Exploring and exploiting hierarchies in Bayesian inverse problems.**  Doctoral thesis, Technical University of Munich. ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La19b.bib), [full text](https://mediatum.ub.tum.de/?id=1518069)) 
 <details>
 <summary>Abstract</summary>
   
@@ -88,7 +88,7 @@ The solution of a Bayesian inverse problem is the posterior distribution. Sampli
 </details>
 
 
-[3] Jonas Latz (2016): **Bayes Linear Methods for Inverse Problems.**  Master's thesis, University of Warwick ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La16.bib), [full text](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/Dissertation_Jonas_Latz.pdf)) 
+[3] Jonas Latz (2016): **Bayes Linear Methods for Inverse Problems.**  Master's thesis, University of Warwick. ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/La16.bib), [full text](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/Dissertation_Jonas_Latz.pdf)) 
 <details>
 <summary>Abstract</summary>
   
