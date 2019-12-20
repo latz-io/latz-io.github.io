@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Research and education
-In December 2019 I earned a doctoral degree (Dr. rer. nat.) from Technical University of Munich (TUM), where I had been a PhD student since September 2016. The title of my thesis is "Exploring and exploiting hierarchies in Bayesian inverse problems". My doctoral research was supervised by Elisabeth Ullmann.  During my PhD I was part of the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87) within the [International Graduate School of Science and Engineering (IGSSE)](https://www.igsse.gs.tum.de/index.php?id=5).
+In December 2019 I earned a doctoral degree (Dr. rer. nat.) from Technical University of Munich (TUM), where I had been a student of Elisabeth Ullmannn since September 2016. The title of my thesis is "Exploring and exploiting hierarchies in Bayesian inverse problems". During my PhD I was part of the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87) within the [International Graduate School of Science and Engineering (IGSSE)](https://www.igsse.gs.tum.de/index.php?id=5).
 Moreover, I was able to collaborate with the groups of Fabio Nobile and Daniel Kressner at École polytechnique fédérale de Lausanne (EPFL), where I stayed for three months in 2018.
 
 Before moving to Munich as a PhD student, I studied Mathematics and Scientific Computing at [University of Trier, Germany](https://www.uni-trier.de/index.php?id=2020), and [University of Warwick, UK](https://csc.warwick.ac.uk). I obtained my Abitur (German high school diploma, matriculation examination) from [Otto-Hahn-Gymnasium, Saarbrücken, Germany](http://www.ohg-sb.de).
