@@ -10,15 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ### Research and education
-I earned a doctoral degree (Dr. rer. nat.) from Technical University of Munich (TUM) in December 2019. The title of my thesis is "Exploring and exploiting hierarchies in Bayesian inverse problems".
-In Munich, I was a PhD student and a teaching assistant in the group of Elisabeth Ullmann since September 2016. Moreover, I was a member of the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87) within the [International Graduate School of Science and Engineering (IGSSE)](https://www.igsse.gs.tum.de/index.php?id=5).
-During my PhD, I stayed for three months at École polytechnique fédérale de Lausanne (EPFL), where I was able to collaborate with the groups of Fabio Nobile and Daniel Kressner.
+In December 2019 I earned a doctoral degree (Dr. rer. nat.) from Technical University of Munich (TUM). The title of my thesis is "Exploring and exploiting hierarchies in Bayesian inverse problems" and it was supervised by Elisabeth Ullmann.  During my PhD I was part of the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87) within the [International Graduate School of Science and Engineering (IGSSE)](https://www.igsse.gs.tum.de/index.php?id=5).
+Moreover, I stayed for three months at École polytechnique fédérale de Lausanne (EPFL), where I was able to collaborate with the groups of Fabio Nobile and Daniel Kressner.
 
-Before moving to Munich as a PhD student, I studied Mathematics and Scientific Computing at [University of Trier, Germany](https://www.uni-trier.de/index.php?id=2020), and [University of Warwick, UK](https://csc.warwick.ac.uk). I obtained my Abitur (German high school diploma, matriculation examination) from [Otto-Hahn-Gymnasium, Saarbrücken, Germany](http://www.ohg-sb.de).
+Before moving to Munich as a PhD student in September 2016, I studied Mathematics and Scientific Computing at [University of Trier, Germany](https://www.uni-trier.de/index.php?id=2020), and [University of Warwick, UK](https://csc.warwick.ac.uk). I obtained my Abitur (German high school diploma, matriculation examination) from [Otto-Hahn-Gymnasium, Saarbrücken, Germany](http://www.ohg-sb.de).
 
 
 ### Personal life
-In my personal life, I am passionate about music and arts: I have been playing in various rock, pop, and jazz bands since the age of 14-15. For a couple of years now, I have also been painting (aquarelle) and printing (linocuts). Here, I show a linocut of mine called *Downstairs to the Moon* (2017):
+In my personal life I am passionate about music and arts: I have been playing in various rock, pop, and jazz bands since the age of 14-15. For a couple of years now, I have also been painting (aquarelle) and printing (linocuts). Here, I show a linocut of mine called *Downstairs to the Moon* (2017):
 
 ![linocut](https://raw.githubusercontent.com/latz-io/latz-io.github.io/master/moon_print.jpg)
 
