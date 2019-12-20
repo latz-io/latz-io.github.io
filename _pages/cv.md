@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Research and education
-I earned a doctoral degree (Dr. rer. nat.) from Technical University of Munich (TUM) in December 2019. The title of my thesis is "Exploring and exploiting hierarchies in Bayesian inverse problems".
+I earned a doctoral degree (Dr. rer. nat.) from Technical University of Munich (TUM) in December 2019 with the thesis titled "Exploring and exploiting hierarchies in Bayesian inverse problems".
 In Munich, I had been a PhD student and a teaching assistant in the group of Elisabeth Ullmann since September 2016. Here, I had been part of the [International Graduate School of Science and Engineering](https://www.igsse.gs.tum.de/index.php?id=5) - more precisely: part of the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87). In this project, we have looked from different perspectives at Bayesian inverse problems with infinite dimensional parameter spaces: mathematics, computer science,  and civil engineering. 
 During my PhD, I had been able to stay and work with various other researchers. I list these stays below. 
  *  Courant Institute of Mathematical Sciences, New York, NY, USA. *(with Benjamin Peherstorfer, 2019-02-20 -- 2019-02-22)*
