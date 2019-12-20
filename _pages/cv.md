@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ### Research and education
-I have been a PhD student and a teaching assistant in the group of Elisabeth Ullmann since September 2016 at the Technical University of Munich (TUM). Here, I am part of the [International Graduate School of Science and Engineering](https://www.igsse.gs.tum.de/index.php?id=5) - more precisely: part of the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87). In this project, we look from different perspectives at Bayesian inverse problems with infinite dimensional parameter spaces: mathematics, computer science,  and civil engineering. 
-
-During my PhD, I have been able to stay and work with various other researchers. I list these stays below. 
+I was a PhD student and a teaching assistant in the group of Elisabeth Ullmann since September 2016 at the Technical University of Munich (TUM). Here, I was part of the [International Graduate School of Science and Engineering](https://www.igsse.gs.tum.de/index.php?id=5) - more precisely: part of the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87). In this project, we look from different perspectives at Bayesian inverse problems with infinite dimensional parameter spaces: mathematics, computer science,  and civil engineering. 
+During my PhD, I had been able to stay and work with various other researchers. I list these stays below. 
  *  Courant Institute of Mathematical Sciences, New York, NY, USA. *(with Benjamin Peherstorfer, 2019-02-20 -- 2019-02-22)*
  *  Chair of Applied Mathematics, University of Manchester, UK. *(with Kody J.H. Law, 2019-01-24 -- 2019-01-25)*
  *  Chair of Scientific Computing and Uncertainty Quantification, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. *(with Fabio Nobile, 2018-09-01 -- 2019-11-30)*
  *  Isaac Newton Institute, University of Cambridge, UK. *(2018-02-05 -- 2018-02-23)*
  *  Chair of Mathematical Optimization, Universität Mannheim, Germany. *(with Claudia Schillings, 2017-11-20 -- 2017-11-22)*
+I graduated from this course in December 2019.
 
 Before moving to Munich as a PhD student, I studied Mathematics and Scientific Computing at [University of Trier, Germany](https://www.uni-trier.de/index.php?id=2020), and [University of Warwick, UK](https://csc.warwick.ac.uk). I obtained my Abitur (German high school diploma, matriculation examination) from [Otto-Hahn-Gymnasium, Saarbrücken, Germany](http://www.ohg-sb.de).
 
