@@ -35,14 +35,12 @@ author_profile: true
  
 ### Supervised students
 
-##### Bachelor's theses
- -  *ongoing:* Samuel Amar (working title: Adaptive Metropolis for Bayesian inference in crystallography).  
- -  *2019:* Sarah Kreuzer (title: Efficient implementation of the Ising-model and image denoising).  
- -  *2018:* Matthieu Bulte (title: Sequential Monte Carlo for time-dependent Bayesian Inverse Problems).  
-
 ##### Master's theses
  -  *2018:* Sabrina Balzer (title: Gaussian process surrogates for Bayesian parameter identification in computational oncology; with Christian Kahle and Elisabeth Ullmann).  
  -  *2018:* Fabian Wagner (title: Particle Methods for Deep Learning, now: [TUM Dep. Mathematics](https://www-m2.ma.tum.de/bin/view/Allgemeines/FabianWagner)).  
  -  *2017:* Marvin Eisenberger (title: Parameterized solution of Karhunen-Loève Eigenproblems with Reduced Basis Methods in Uncertainty Quantification, now: [TUM Dep. Informatics](https://vision.in.tum.de/members/eisenber)).  
-
-
+ 
+ ##### Bachelor's theses
+ -  *2019:* Samuel Amar (title: Adaptive Metropolis for Bayesian inference in crystallography).  
+ -  *2019:* Sarah Kreuzer (title: Efficient implementation of the Ising-model and image denoising).  
+ -  *2018:* Matthieu Bulte (title: Sequential Monte Carlo for time-dependent Bayesian Inverse Problems).  
