@@ -7,7 +7,7 @@ author_profile: true
 
 ## Upcoming 
  -  Talk & Organisation of a Minisymposium @ [SIAM Conference on Uncertainty Quantification (UQ20)](https://siam-uq20.ma.tum.de/), Munich, Germany. *(2020-03-24 -- 2020-03-27)*
- -  Visit & Talk @ [ANCHP](https://anchp.epfl.ch), École Polytechnique Fédérale de Lausanne, Switzerland.  *(2020-02-10 -- 2020-02-14)* 
+ -  Visit & Talk @ [ANCHP](https://anchp.epfl.ch), École Polytechnique Fédérale de Lausanne, Switzerland.  *(2020-02-10 -- 2020-02-14, with Daniel Kressner)* 
 
 
 
@@ -29,7 +29,7 @@ Optimization and Inversion under Uncertainty](https://www.ricam.oeaw.ac.at/specs
 ### 2018
  -  Talk @ Seminar ANCHP + CSQI, École Polytechnique Fédérale de Lausanne, Switzerland.  *(2018-10-22)* 
  -  Talk @ Seminar CSQI, École Polytechnique Fédérale de Lausanne, Switzerland.  *(2018-09-20)*
- -  Long-term stay @ CSQI, École Polytechnique Fédérale de Lausanne, Switzerland.  *(2018-09 -- 2018-11)* 
+ -  Long-term stay @ CSQI, École Polytechnique Fédérale de Lausanne, Switzerland.  *(2018-09 -- 2018-11, with Fabio Nobile)* 
  -  Talk @ [13th International Conference in Monte Carlo & Quasi-Monte Carlo Methods in Scientific Computing (MCQMC 2018)](http://mcqmc2018.inria.fr/), Rennes, France.  *(2018-07-01 -- 2018-07-06)* 
  -  Talk @ [SIAM Conference on Uncertainty Quantification 2018 (UQ18)](https://www.siam.org/meetings/uq18/), Garden Grove, CA, USA.  *(2018-04-16 -- 2018-04-19)* 
  -  Talk @ [GAMM Annual Meeting 2018](http://jahrestagung.gamm-ev.de/), Munich, Germany.  *(2018-03-19 -- 2018-03-23)* 
