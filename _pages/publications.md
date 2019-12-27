@@ -27,7 +27,7 @@ ___
 [7] Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann (2019): **Fast Sampling of parameterised Gaussian random fields.** Comput. Methods in Appl. Mech. Engrg. 348, p. 978-1012, [doi](https://doi.org/10.1016/j.cma.2019.02.003). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LEU19.bib), [arXiv](https://arxiv.org/abs/1804.11157))  
 
 
-[6] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018): **A practical example for the non-linear Bayesian filtering of model parameters.** *Accepted.* ([github](https://github.com/BayesianLearning/PenduSMC), [.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/BLU18.bib), [arXiv](https://arxiv.org/abs/1807.08713)) 
+[6] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018): **A practical example for the non-linear Bayesian filtering of model parameters.** *Accepted in* M. D’Elia, M. Gunzburger, G. Rozza (ed.): **Quantification of Uncertainty: Improving Efficiency and Technology - QUIET selected contributions**,  Lecture  Notes  in  Computational  Science  and  Engineering,  Springer,  Cham ([github](https://github.com/BayesianLearning/PenduSMC), [.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/BLU18.bib), [arXiv](https://arxiv.org/abs/1807.08713)) 
 
 
 [5] Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2018): **Multilevel Sequential² Monte Carlo for Bayesian Inverse Problems.**  J. Comput. Phys. 368, p. 154-178, [doi](https://doi.org/10.1016/j.jcp.2018.04.014). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LPU18.bib), [arXiv](https://arxiv.org/abs/1709.09763))  
