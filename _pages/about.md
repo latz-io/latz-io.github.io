@@ -39,7 +39,7 @@ My name is Jonas Latz. From September 2016 to December 2019, I was a PhD student
   </tr>
 </table> 
 
-
+<hr>
 
 This webpage contains information about my research output in [academic journals](/publications/) and at [academic meetings](/talks/). Moreover, I have summarised my [teaching experience](/teaching/) and my [personal background](/cv/). Input of any kind is highly appreciated; [please contact me](/contact/).
 
