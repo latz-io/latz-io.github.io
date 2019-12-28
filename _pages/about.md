@@ -10,7 +10,6 @@ redirect_from:
 
 My name is Jonas Latz. From September 2016 to December 2019, I was a PhD student in the group of [Elisabeth Ullmann](https://www-m2.ma.tum.de/bin/view/Allgemeines/Ullmann) at the [Technical University of Munich (TUM)](https://www-ma.tum.de). The research I am involved in is at the interface of numerical analysis, computational science, probability theory, and statistics. It focuses on methods that can be used to blend mathematical models with observational data.  
 
-___
 
  <table style="width:100%; border: none;" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -40,7 +39,7 @@ ___
   </tr>
 </table> 
 
-___
+
 
 This webpage contains information about my research output in [academic journals](/publications/) and at [academic meetings](/talks/). Moreover, I have summarised my [teaching experience](/teaching/) and my [personal background](/cv/). Input of any kind is highly appreciated; [please contact me](/contact/).
 
