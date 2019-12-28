@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jonas Latz. From September 2016 to December 2019, I had been a PhD student in the group of [Elisabeth Ullmann](https://www-m2.ma.tum.de/bin/view/Allgemeines/Ullmann) at the [Technical University of Munich (TUM)](https://www-ma.tum.de). The research I am involved in is at the interface of numerical analysis, computational science, probability theory, and statistics. It focuses on methods that can be used to blend mathematical models with observational data.  
+My name is Jonas Latz. From September 2016 to December 2019, I was a PhD student in the group of [Elisabeth Ullmann](https://www-m2.ma.tum.de/bin/view/Allgemeines/Ullmann) at the [Technical University of Munich (TUM)](https://www-ma.tum.de). The research I am involved in is at the interface of numerical analysis, computational science, probability theory, and statistics. It focuses on methods that can be used to blend mathematical models with observational data.  
 
 ___
 
