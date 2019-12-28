@@ -10,7 +10,7 @@ font-size: small;
     /*  font-variant: small-caps;*/
   border-collapse: collapse;
   border: 1px solid $light-gray;
-  background-color: $lighter-gray;
+  background-color: $table-background-color;
 
   & + table {
     margin-top: 1em;
