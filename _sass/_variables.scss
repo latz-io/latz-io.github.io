@@ -59,6 +59,7 @@ $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
+$table-background-color           : #97dbe6;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -74,7 +75,8 @@ $dribbble-color             : #ea4c89;
 $facebook-color             : #3b5998;
 $flickr-color               : #ff0084;
 $foursquare-color           : #0072b1;
-$github-color               : #171516;
+/*$github-color               : #171516;*/
+$github-color               : #info-color;
 $google-plus-color          : #dd4b39;
 $instagram-color            : #517fa4;
 $lastfm-color               : #d51007;
@@ -84,7 +86,9 @@ $rss-color                  : #fa9b39;
 $soundcloud-color           : #ff3300;
 $stackoverflow-color        : #fe7a15;
 $tumblr-color               : #32506d;
-$twitter-color              : #55acee;
+/*$twitter-color              : #55acee;*/
+$twitter-color              : $info-color;
+
 $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
