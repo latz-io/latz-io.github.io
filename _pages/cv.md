@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+As of January 2020, I am a Research Associate in the [Department of Applied Mathematics and Theoretical Physics, University of Cambridge](http://www.damtp.cam.ac.uk).
+
 ### Research and education
 In December 2019 I earned a doctoral degree (Dr. rer. nat.) from Technical University of Munich (TUM), where I had been a student of Elisabeth Ullmannn since September 2016. The title of my thesis is "Exploring and exploiting hierarchies in Bayesian inverse problems". During my PhD I was part of the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87) within the [International Graduate School of Science and Engineering (IGSSE)](https://www.igsse.gs.tum.de/index.php?id=5).
 Moreover, I was able to collaborate with the groups of Fabio Nobile and Daniel Kressner at École polytechnique fédérale de Lausanne (EPFL), where I stayed for three months in 2018.
