@@ -7,15 +7,7 @@ redirect_from:
   - /input
 ---
 
-Please send  comments, critiques, hints, ideas, and inquiries to [mail[obvious symbol]jonaslatz.de](mailto:mail@jonaslatz.de). 
-<!---Alternatively, you can reach me classically by mail:
-
-Jonas Latz   
-Technische Universität München   
-Fakultät für Mathematik - M2	  
-Boltzmannstraße 3	  
-85748 Garching b. M.   
-Germany  --->
+Please send  comments, critiques, hints, ideas, and inquiries to [mail[obvious symbol]jonaslatz.de](mailto:mail@jonaslatz.de)
 
 or you meet me in person; see my [list of upcoming events](\talks\).
 
