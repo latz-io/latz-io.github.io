@@ -11,13 +11,13 @@ Please send  comments, critiques, hints, ideas, and inquiries to [mail[obvious s
 
 or via mail to
 
-Dr Jonas Latz
-Department of Applied Mathematics and Theoretical Physics
-Centre for Mathematical Sciences
-Wilberforce Road
-Cambridge
-CB3 0WA
-United Kingdom
+Dr Jonas Latz  
+Department of Applied Mathematics and Theoretical Physics  
+Centre for Mathematical Sciences  
+Wilberforce Road  
+Cambridge  
+CB3 0WA  
+United Kingdom  
 
 or you meet me in person; see my [list of upcoming events](\talks\).
 
