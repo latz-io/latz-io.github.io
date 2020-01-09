@@ -7,7 +7,7 @@ redirect_from:
   - /input
 ---
 
-Please send  comments, critiques, hints, ideas, and inquiries to [mail[obvious symbol]jonaslatz.de](mailto:mail@jonaslatz.de)
+Please send  comments, critiques, hints, ideas, and inquiries to [jl2160[obvious symbol]cam.ac.uk](mailto:jl2160@cam.ac.uk)
 
 or via mail to
 
