@@ -7,6 +7,9 @@ author_profile: true
 
 ### Preprints
 
+[13] Daniel Kressner, Jonas Latz, Stefano Massei, Elisabeth Ullmann (2020):  **Certified and fast computations with shallow covariance kernels.** *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLMU20.bib), [arXiv](http://arxiv.org/abs/2001.09187))  
+
+
 [12] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2019):  **Multilevel Sequential Importance Sampling for Rare Event Estimation.** *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/WLPU19.bib), [arXiv](https://arxiv.org/abs/1909.07680))  
 
 
