@@ -9,13 +9,14 @@ author_profile: true
  -  [WS1 Multilevel and multifidelity sampling methods in UQ for PDEs & WS3 PDE-constrained Bayesian inverse UQ, Computational Uncertainty Quantification: Mathematical Foundations, Methodology & Data](https://www.esi.ac.at/events/e22/), Erwin Schrödinger International Institute for Mathematics and Physics, Vienna, Austria. *(2020-05-04 -- 2020-05-15)*
  -  Talk & Organisation of a Minisymposium @ [SIAM Conference on Uncertainty Quantification (UQ20)](https://www.events.tum.de/frontend/index.php?page_id=3712&v=AuthorList&do=17&entity_id=37639), Munich, Germany. *(2020-03-24 -- 2020-03-27)*
  -  Visit & Talk @ [ANCHP](https://anchp.epfl.ch), École Polytechnique Fédérale de Lausanne, Switzerland.  *(2020-02-10 -- 2020-02-14, with Daniel Kressner)* 
- -  Participation @ [Current technical challenges in clinical research using PET/MR](http://www.cvent.com/events/current-technical-challenges-in-clinical-research-using-pet-mr/event-summary-16fbfafe73674ff08a57a4b7d5c71586.aspx), London, United Kingdom. *(2020-02-05)*
-
 
 
 ## Past  
 A map of all the meetings I have participated in:
 <iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en"  ></iframe>
+
+### 2020
+ -  Participation @ [Current technical challenges in clinical research using PET/MR](http://www.cvent.com/events/current-technical-challenges-in-clinical-research-using-pet-mr/event-summary-16fbfafe73674ff08a57a4b7d5c71586.aspx), London, United Kingdom. *(2020-02-05)*
 
 ### 2019
  -  Poster @ [RICAM Special Semester Optimization, Workshop 3:
