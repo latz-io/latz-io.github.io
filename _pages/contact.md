@@ -11,7 +11,8 @@ Please send  comments, critiques, hints, ideas, and inquiries to [jl2160[obvious
 
 or via mail to
 
-Dr Jonas Latz  
+Dr Jonas Latz
+University of Cambridge
 Department of Applied Mathematics and Theoretical Physics  
 Centre for Mathematical Sciences  
 Wilberforce Road  
