@@ -8,6 +8,7 @@ author_profile: true
 ## Upcoming
  -  [WS1 Multilevel and multifidelity sampling methods in UQ for PDEs & WS3 PDE-constrained Bayesian inverse UQ, Computational Uncertainty Quantification: Mathematical Foundations, Methodology & Data](https://www.esi.ac.at/events/e22/), Erwin Schrödinger International Institute for Mathematics and Physics, Vienna, Austria. *(2020-05-04 -- 2020-05-15)*
  -  Talk & Organisation of a Minisymposium @ [SIAM Conference on Uncertainty Quantification (UQ20)](https://www.events.tum.de/frontend/index.php?page_id=3712&v=AuthorList&do=17&entity_id=37639), Munich, Germany. *(2020-03-24 -- 2020-03-27)*
+ -  Participation @ CCPi i/PETMR hackathon, Abington, Oxfordshire, UK. *(2020-03-16 -- 2020-03-18)*
 
 ## Past  
 A map of all the meetings I have participated in:
