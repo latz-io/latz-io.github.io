@@ -16,7 +16,10 @@ author_profile: true
  -  *2018-07-10:* [Guest lecture "Bayesian inverse problems" in Algorithms for Uncertainty Quantification](https://www5.in.tum.de/wiki/index.php/Algorithms_for_Uncertainty_Quantification_-_Summer_18).
  -  *2017-07-18:* [Guest lecture "Bayesian inverse problems" in Algorithms for Uncertainty Quantification](https://www5.in.tum.de/wiki/index.php/Algorithms_for_Uncertainty_Quantification_-_Summer_17).
   
-### Tutorials
+### Tutorials/Seminars
+
+##### University of Cambridge, Department of Applied Mathematics and Theoretical Physics
+ -  *Lent term 2020:* Supervision in From Computation to Information
 
 ##### Technical University of Munich, Department of Mathematics
  -  *Winter term 2018/19:* Supervision in [Hauptseminar: Data assimilation](https://www-m2.ma.tum.de/bin/view/Allgemeines/DATA).  
