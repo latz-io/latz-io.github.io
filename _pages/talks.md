@@ -15,7 +15,7 @@ A map of all the meetings I have participated in:
 <iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en"  ></iframe>
 
 ### 2020
- -  Visit @ Department for Mathematical Sciences, University of Bath, UK. *(2020-03-04 -- 2020-03-05)+
+ -  Visit @ Department for Mathematical Sciences, University of Bath, UK. *(2020-03-04 -- 2020-03-05)*
  -  Talk @ [Mathematics in Computational Science and Engineering (MATHICSE-Group)](https://memento.epfl.ch/event/on-the-well-posedness-of-bayesian-inverse-proble-2/), École Polytechnique Fédérale de Lausanne, Switzerland.  *(2020-02-11)* 
  -  Visit @ [ANCHP](https://anchp.epfl.ch), École Polytechnique Fédérale de Lausanne, Switzerland.  *(2020-02-10 -- 2020-02-14, with Daniel Kressner)* 
  -  Participation @ [Current technical challenges in clinical research using PET/MR](http://www.cvent.com/events/current-technical-challenges-in-clinical-research-using-pet-mr/event-summary-16fbfafe73674ff08a57a4b7d5c71586.aspx), London, United Kingdom. *(2020-02-05)*
