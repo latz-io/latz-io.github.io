@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Jonas Latz; welcome to my webpage! 
 
-Currently, I am a Research Associate in the [Department of Applied Mathematics and Theoretical Physics, University of Cambridge](http://damtp.cam.ac.uk). I work with [Carola-Bibiane Schönlieb](http://www.damtp.cam.ac.uk/user/cbs31/Home.html) in the [Cambridge Image Analysis group](http://www.damtp.cam.ac.uk/research/cia/) and the EPSRC-funded project [PET++](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/S026045/1). 
+Currently, I am a Research Associate in the [Department of Applied Mathematics and Theoretical Physics, University of Cambridge](http://damtp.cam.ac.uk). I work with [Carola-Bibiane Schönlieb](http://www.damtp.cam.ac.uk/user/cbs31/Home.html) in the [Cambridge Image Analysis group](http://www.damtp.cam.ac.uk/research/cia/) and the EPSRC-funded project [PET++](https://petpp.github.io). 
 
 The research I am involved in is at the interface of numerical analysis, computational science, probability theory, and statistics. It focuses on methods that can be used to blend mathematical models with observational data.  
 
