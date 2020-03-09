@@ -7,6 +7,9 @@ author_profile: true
 
 ### Preprints
 
+[14] Jonas Latz, Juan P. Madrigal-Cianci, Fabio Nobile, Raul Tempone (2020):  **Generalized Parallel Tempering on Bayesian Inverse Problems.** *Preprint available* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LMCNT20.bib), [arXiv](https://arxiv.org/abs/2003.03341))  
+
+
 [13] Daniel Kressner, Jonas Latz, Stefano Massei, Elisabeth Ullmann (2020):  **Certified and fast computations with shallow covariance kernels.** *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLMU20.bib), [arXiv](http://arxiv.org/abs/2001.09187))  
 
 
