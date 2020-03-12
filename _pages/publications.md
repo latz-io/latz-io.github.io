@@ -21,10 +21,10 @@ author_profile: true
 ___
 ### Refereed journal articles and book chapters
 
-[9] Jonas Latz (2020): **On the Well-posedness of Bayesian Inverse Problems.** SIAM/ASA J. Uncertain. Quantif. 8(1), p. 451–482, [doi](https://doi.org/10.1137/19M1247176). ([.bib](https://epubs.siam.org/action/showCitFormats?doi=10.1137%2F19M1247176), [arXiv](https://arxiv.org/abs/1902.10257))  
+[10] Jonas Latz (2020): **On the Well-posedness of Bayesian Inverse Problems.** SIAM/ASA J. Uncertain. Quantif. 8(1), p. 451–482, [doi](https://doi.org/10.1137/19M1247176). ([.bib](https://epubs.siam.org/action/showCitFormats?doi=10.1137%2F19M1247176), [arXiv](https://arxiv.org/abs/1902.10257))  
 
 
-[10] Ionuţ-Gabriel Farcaş, Jonas Latz, Elisabeth Ullmann, Tobias Neckel, Hans-Joachim Bungartz (2020): **Multilevel Adaptive Sparse Leja Approximations for Bayesian Inverse Problems.** SIAM J. Sci. Comput. 42(1), p. A424–A451, [doi](https://doi.org/10.1137/19M1260293). ([.bib](https://epubs.siam.org/action/showCitFormats?doi=10.1137%2F19M1260293), [arXiv](https://arxiv.org/abs/1904.12204))  
+[9] Ionuţ-Gabriel Farcaş, Jonas Latz, Elisabeth Ullmann, Tobias Neckel, Hans-Joachim Bungartz (2020): **Multilevel Adaptive Sparse Leja Approximations for Bayesian Inverse Problems.** SIAM J. Sci. Comput. 42(1), p. A424–A451, [doi](https://doi.org/10.1137/19M1260293). ([.bib](https://epubs.siam.org/action/showCitFormats?doi=10.1137%2F19M1260293), [arXiv](https://arxiv.org/abs/1904.12204))  
 
 
 [8] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019): **Bayesian parameter identification in Cahn-Hilliard models for biological growth.** SIAM/ASA J. Uncertain. Quantif. 7(2), p. 526-552, [doi](https://doi.org/10.1137/18M1210034). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLLU19.bib), [arXiv](https://arxiv.org/abs/1805.03304))  
