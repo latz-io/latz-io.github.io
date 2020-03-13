@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Please find below a list of my publications. If you have issues accessing them, please send me an email: [jl2160[obvious symbol]cam.ac.uk](mailto:jl2160@cam.ac.uk).
+
 ### Preprints
 
 [14] Jonas Latz, Juan P. Madrigal-Cianci, Fabio Nobile, Raul Tempone (2020):  **Generalized Parallel Tempering on Bayesian Inverse Problems.** *Submitted.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LMCNT20.bib), [arXiv](https://arxiv.org/abs/2003.03341))  
