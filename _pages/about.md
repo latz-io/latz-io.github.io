@@ -50,4 +50,4 @@ This webpage contains information about my research output in [academic journals
 &nbsp; &nbsp; &nbsp;
 ---
 
-<a class="twitter-timeline" data-width="100%" data-height="500" href="https://twitter.com/latzplacian?ref_src=twsrc%5Etfw">Tweets by latzplacian</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="100%" data-height="800" href="https://twitter.com/latzplacian?ref_src=twsrc%5Etfw">Tweets by latzplacian</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
