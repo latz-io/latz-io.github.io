@@ -50,15 +50,4 @@ This webpage contains information about my research output in [academic journals
 &nbsp; &nbsp; &nbsp;
 ---
 
-# News
-
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<a class="twitter-timeline" data-width="100%" data-height="500" href="https://twitter.com/latzplacian?ref_src=twsrc%5Etfw">Tweets by latzplacian</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
