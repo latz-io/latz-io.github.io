@@ -41,6 +41,13 @@ The research I am involved in is at the interface of numerical analysis, computa
           <td colspan="4" style="border: none;" align="center">Hierarchical models</td>
   <td colspan="4" style="border: none;" align="right">(Stochastic) partial differential equations</td>
   </tr>
+
+   <tr>
+    <td colspan="4" style="border: none;">Machine Learning</td>
+          <td colspan="4" style="border: none;" align="center">Stochastic Optimisation</td>
+  <td colspan="4" style="border: none;" align="right"></td>
+  </tr>
+
 </table> 
 
 <hr>
