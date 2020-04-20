@@ -9,7 +9,7 @@ Please find below a list of my publications. If you have issues accessing them, 
 
 ### Preprints
 
-[15] Jonas Latz (2020):  **Analysis of Stochastic Gradient Descent in Continuous Time.** *Preprint available.* ([.bib](https://ui.adsabs.harvard.edu/abs/2020arXiv200407177L/exportcitation), [arXiv](https://arxiv.org/abs/2004.07177))
+[15] Jonas Latz (2020):  **Analysis of Stochastic Gradient Descent in Continuous Time.** *Submitted.* ([.bib](https://ui.adsabs.harvard.edu/abs/2020arXiv200407177L/exportcitation), [arXiv](https://arxiv.org/abs/2004.07177))
 
 
 [14] Jonas Latz, Juan P. Madrigal-Cianci, Fabio Nobile, Raul Tempone (2020):  **Generalized Parallel Tempering on Bayesian Inverse Problems.** *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LMCNT20.bib), [arXiv](https://arxiv.org/abs/2003.03341))  
