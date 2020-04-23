@@ -18,13 +18,13 @@ Please find below a list of my publications. If you have issues accessing them, 
 [13] Daniel Kressner, Jonas Latz, Stefano Massei, Elisabeth Ullmann (2020):  **Certified and fast computations with shallow covariance kernels.** *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLMU20.bib), [arXiv](http://arxiv.org/abs/2001.09187))  
 
 
-[12] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2019):  **Multilevel Sequential Importance Sampling for Rare Event Estimation.** *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/WLPU19.bib), [arXiv](https://arxiv.org/abs/1909.07680))  
-
-
-[11] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2019): **Bayesian inference with subset simulation in spaces of varying dimension.**  *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS19.bib), [full text](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2019_uribe_et_al_JCP.pdf))  
+[12] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2019): **Bayesian inference with subset simulation in spaces of varying dimension.**  *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS19.bib), [full text](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2019_uribe_et_al_JCP.pdf))  
 
 ___
 ### Refereed journal articles and book chapters
+
+[11] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2019):  **Multilevel Sequential Importance Sampling for Rare Event Estimation.** *Accepted in* SIAM J. Sci. Comput. ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/WLPU19.bib), [arXiv](https://arxiv.org/abs/1909.07680))  
+
 
 [10] Jonas Latz (2020): **On the Well-posedness of Bayesian Inverse Problems.** SIAM/ASA J. Uncertain. Quantif. 8(1), p. 451–482, [doi](https://doi.org/10.1137/19M1247176). ([.bib](https://epubs.siam.org/action/showCitFormats?doi=10.1137%2F19M1247176), [arXiv](https://arxiv.org/abs/1902.10257))  
 
