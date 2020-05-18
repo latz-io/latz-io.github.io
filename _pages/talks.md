@@ -10,7 +10,7 @@ author_profile: true
 
 ## Past  
 A map of all the meetings I have participated in:
-<iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/embed?mid=1F9FSLmSsgGJBa2cx2CVfNtmlFSj8p5p_&hl=en"  ></iframe>
+<iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/u/1/embed?mid=1VSuXnCjO51FtpZcME5OrwY9JOcrmuvcq"  ></iframe>
 
 ### 2020
  -  Visit @ Department of Mathematical Sciences, University of Bath, UK. *(2020-03-04 -- 2020-03-05)*
