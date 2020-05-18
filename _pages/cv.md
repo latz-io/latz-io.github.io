@@ -18,7 +18,7 @@ Moreover, I was able to collaborate with the groups of [Fabio Nobile](https://pe
 Before moving to Munich as a PhD student, I studied Mathematics and Scientific Computing at [University of Trier, Germany](https://www.uni-trier.de/index.php?id=2020), and [University of Warwick, UK](https://csc.warwick.ac.uk). During my B.Sc. and M.Sc. studies, I was a scholar of [Konrad Adenauer Foundation, St. Augustin, Germany](http://www.kas.de). I obtained my Abitur (German high school diploma, matriculation examination) from [Otto-Hahn-Gymnasium, Saarbrücken, Germany](http://www.ohg-sb.de).
 
 A map of the stages mentioned above:
-<iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/embed?mid=10nutBUzNmYYO2gZ4k7-gNhz1bAp2gWIh"  ></iframe>
+<iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/u/1/embed?mid=1yCjMTzy7lGsT6d-nPy_A-emiodzd_sDn"  ></iframe>
 
 
 ### Personal life
