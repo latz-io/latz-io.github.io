@@ -22,6 +22,7 @@ author_profile: true
  -  *Lent term 2020:* Supervision in From Computation to Information
 
 ##### Technical University of Munich, Department of Mathematics
+ -  *Summer term 2020:* Organisation in [Online Reading Group: Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/RGUQ).
  -  *Winter term 2018/19:* Supervision in [Hauptseminar: Data assimilation](https://www-m2.ma.tum.de/bin/view/Allgemeines/DATA).  
  -  *Summer term 2018:* Tutorials in [Numerical Methods for Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/NUMUQ18).  
  -  *Winter term 2017/18:* Tutorials in [Einführung in die Numerische Lineare Algebra](https://www-m2.ma.tum.de/bin/view/Allgemeines/NLA17).  
