@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Upcoming
-*Due to the current corona pandemic, I don't have fixed upcoming events. If interested in a chat, please contact me via [email](mailto:jl2160@cam.ac.uk).*
+*Due to the SARS-CoV-2 pandemic, I don't have fixed upcoming events. If interested in a chat, please contact me via [email](mailto:jl2160@cam.ac.uk).*
 
 ## Past  
 A map of all the meetings I have participated in:
