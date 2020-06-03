@@ -8,7 +8,8 @@ author_profile: true
 ## Upcoming
 *Due to the SARS-CoV-2 pandemic, I won't be travelling for quite a while. If interested in a chat, please contact me via [email](mailto:jl2160@cam.ac.uk).*
 
- - [Continuum Models and Optimisation for Deep Neural Networks](), Banff International Research Station for Mathematical Innovation and Discovery, Alberta, Canada. *(2021-01-10 -- 2021-01-15)*
+ - [Continuum Models and Optimisation for Deep Neural Networks](http://www.birs.ca/events/2021/5-day-workshops/21w5143), Banff International Research Station for Mathematical Innovation and Discovery, Alberta, Canada. *(2021-01-10 -- 2021-01-15)*
+ - [SIAM Conference on Mathematics of Data Science (MDS20)](https://www.siam.org/conferences/cm/conference/mds20), online conference. *(2020-05-04 -- 2020-06-30)*
 
 ## Past  
 A map of all the meetings I have participated in:
