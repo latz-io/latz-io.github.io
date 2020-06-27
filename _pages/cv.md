@@ -12,7 +12,7 @@ redirect_from:
 Currently, I am a Research Associate in the [Department of Applied Mathematics and Theoretical Physics, University of Cambridge](http://www.damtp.cam.ac.uk).
 
 ### Achievement
-In 2020, I was awarded a [SIAM Student Paper Prize](https://www.siam.org/prizes-recognition/student-prizes/detail/siam-student-paper-prize) for my publication [[L. 2020; SIAM/ASA J. Uncertain. Quantif. 8(1), p. 451–482]](https://doi.org/10.1137/19M1247176) by the Society for Industrial and Applied Mathematics, Philadelphia, PA.
+In 2020, I was awarded a [SIAM Student Paper Prize](https://www.siam.org/prizes-recognition/student-prizes/detail/siam-student-paper-prize) for my publication [[L. 2020; SIAM/ASA J. Uncertain. Quantif. 8(1), p. 451–482]](https://doi.org/10.1137/19M1247176) by the [Society for Industrial and Applied Mathematics](https://www.siam.org/), Philadelphia, PA.
 
 ### Education and previous positions
 In December 2019 I earned a doctoral degree (Dr. rer. nat.) from [Technical University of Munich (TUM)](http://www.tum.de), where I had been a student of [Elisabeth Ullmann](https://www-m2.ma.tum.de/bin/view/Allgemeines/Ullmann) since September 2016. The title of my thesis is "Exploring and exploiting hierarchies in Bayesian inverse problems". During my PhD I was part of the project [10.02/BAYES](https://www.igsse.gs.tum.de/index.php?id=87) within the [International Graduate School of Science and Engineering (IGSSE)](https://www.igsse.gs.tum.de/index.php?id=5).
