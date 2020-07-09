@@ -11,7 +11,8 @@ redirect_from:
 
 Currently, I am a Research Associate in the [Department of Applied Mathematics and Theoretical Physics, University of Cambridge](http://www.damtp.cam.ac.uk).
 
-### Achievement
+### Publications, talks, and achievements
+For lists of my publications and talks, please visit the dedicated pages: [Publications](/publications/) and [Meetings](/talks/), respectively.
 In 2020, I was awarded a [SIAM Student Paper Prize](https://www.siam.org/prizes-recognition/student-prizes/detail/siam-student-paper-prize) for the journal publication [[L. 2020; SIAM/ASA J. Uncertain. Quantif. 8(1), p. 451–482]](https://doi.org/10.1137/19M1247176) by the [Society for Industrial and Applied Mathematics](https://www.siam.org/), Philadelphia, PA.
 
 ### Education and previous positions
