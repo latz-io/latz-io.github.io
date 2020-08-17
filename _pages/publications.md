@@ -9,6 +9,10 @@ Please find below a list of my publications. If you have issues accessing them, 
 
 ### Preprints
 
+[16] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2020):  **Error analysis for probabilities of rare events with approximate models
+.** *Under review.* ([.bib](https://ui.adsabs.harvard.edu/abs/2020arXiv200806368W/exportcitation), [arXiv](https://arxiv.org/abs/2008.06368))
+
+
 [15] Jonas Latz (2020):  **Analysis of Stochastic Gradient Descent in Continuous Time.** *Under review.* ([.bib](https://ui.adsabs.harvard.edu/abs/2020arXiv200407177L/exportcitation), [arXiv](https://arxiv.org/abs/2004.07177))
 
 
