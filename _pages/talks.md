@@ -9,6 +9,7 @@ author_profile: true
 *Due to the SARS-CoV-2 pandemic, I won't be travelling for quite a while. If interested in a chat, please contact me via [email](mailto:jl2160@cam.ac.uk).*
 
  - [Continuum Models and Optimisation for Deep Neural Networks](http://www.birs.ca/events/2021/5-day-workshops/21w5143), Banff International Research Station for Mathematical Innovation and Discovery, Alberta, Canada. *(2021-01-10 -- 2021-01-15)*
+  -  Talk & Organisation of a Minisymposium @ [14th International Conference in Monte Carlo & Quasi-Monte Carlo Methods in Scientific Computing (MCQMC 2020)](https://mcqmc20.web.ox.ac.uk), online conference.  *(2020-08-10 -- 2020-08-14)* 
 
 
 ## Past  
