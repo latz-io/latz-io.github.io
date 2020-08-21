@@ -9,7 +9,7 @@ author_profile: true
 *Due to the SARS-CoV-2 pandemic, I won't be travelling for quite a while. If interested in a chat, please contact me via [email](mailto:jl2160@cam.ac.uk).*
 
  - [Continuum Models and Optimisation for Deep Neural Networks](http://www.birs.ca/events/2021/5-day-workshops/21w5143), Banff International Research Station for Mathematical Innovation and Discovery, Alberta, Canada. *(2021-01-10 -- 2021-01-15)*
-  -  Talk & Organisation of a Minisymposium @ [14th International Conference in Monte Carlo & Quasi-Monte Carlo Methods in Scientific Computing (MCQMC 2020)](https://mcqmc20.web.ox.ac.uk), online conference.  *(2020-08-10 -- 2020-08-14)* 
+
 
 
 ## Past  
@@ -17,6 +17,8 @@ A map of all the meetings I have participated in:
 <iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/u/1/embed?mid=1VSuXnCjO51FtpZcME5OrwY9JOcrmuvcq"  ></iframe>
 
 ### 2020
+ -  Talk & Organisation of a Minisymposium @ [14th International Conference in Monte Carlo & Quasi-Monte Carlo Methods in Scientific Computing (MCQMC 2020)](https://mcqmc20.web.ox.ac.uk), online conference.  *([Slides](https://drive.google.com/file/d/1svTl6-JRsetLR3qPBocHiPZLLNCkL8h7/edit), [Video](https://www.youtube.com/watch?v=BgZN0NQAlAU), [Minisymposium](https://www.youtube.com/playlist?list=PLHldTeIWYcvP2PUNZ9uCmOeSt55ix-UNS), 2020-08-10 -- 2020-08-14)* 
+ 
  - Talk @ [SIAM Conference on Mathematics of Data Science (MDS20)](https://www.siam.org/conferences/cm/conference/mds20), online conference. *([Slides](2020/talk_SIAM_MDS_2020_handout.pdf), 2020-05-04 -- 2020-06-30)*
  -  Participation @ [Online Workshop Multilevel and multifidelity sampling methods in UQ for PDEs](https://www.esi.ac.at/events/e398/), Erwin Schrödinger International Institute for Mathematics and Physics, Vienna, Austria. *(2020-05-04 -- 2020-05-05)*
  -  Visit @ Department of Mathematical Sciences, University of Bath, UK. *(2020-03-04 -- 2020-03-05)*
