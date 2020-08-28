@@ -26,7 +26,7 @@ Please find below a list of my publications. If you have issues accessing them, 
 ___
 ### Refereed journal articles and book chapters
 
-[11] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018): **A practical example for the non-linear Bayesian filtering of model parameters.** *in* M. D’Elia, M. Gunzburger, G. Rozza (ed.): **Quantification of Uncertainty: Improving Efficiency and Technology - QUIET selected contributions**, Lecture  Notes  in  Computational  Science  and  Engineering Vol. 137,  Springer,  Cham, Chpt. 11, pp. 241-272, [doi](https://doi.org/10.1007/978-3-030-48721-8_11). ([github](https://github.com/BayesianLearning/PenduSMC), [.bib](https://doi.org/10.1007/978-3-030-48721-8_11), [arXiv](https://arxiv.org/abs/1807.08713)) 
+[11] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2020): **A practical example for the non-linear Bayesian filtering of model parameters.** *in* M. D’Elia, M. Gunzburger, G. Rozza (ed.): **Quantification of Uncertainty: Improving Efficiency and Technology - QUIET selected contributions**, Lecture  Notes  in  Computational  Science  and  Engineering Vol. 137,  Springer,  Cham, Chpt. 11, pp. 241-272, [doi](https://doi.org/10.1007/978-3-030-48721-8_11). ([github](https://github.com/BayesianLearning/PenduSMC), [.bib](https://doi.org/10.1007/978-3-030-48721-8_11), [arXiv](https://arxiv.org/abs/1807.08713)) 
 
 
 [10] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2020):  **Multilevel Sequential Importance Sampling for Rare Event Estimation.** SIAM J. Sci. Comput. 42(4), pp. A2062–A2087, [doi](https://doi.org/10.1137/19M1289601). ([.bib](https://epubs.siam.org/action/showCitFormats?doi=10.1137%2F19M1289601), [arXiv](https://arxiv.org/abs/1909.07680))  
