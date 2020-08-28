@@ -26,22 +26,22 @@ Please find below a list of my publications. If you have issues accessing them, 
 ___
 ### Refereed journal articles and book chapters
 
-[11] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2020):  **Multilevel Sequential Importance Sampling for Rare Event Estimation.** SIAM J. Sci. Comput. 42(4), pp. A2062–A2087, [doi](https://doi.org/10.1137/19M1289601). ([.bib](https://epubs.siam.org/action/showCitFormats?doi=10.1137%2F19M1289601), [arXiv](https://arxiv.org/abs/1909.07680))  
+[11] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018): **A practical example for the non-linear Bayesian filtering of model parameters.** *in* M. D’Elia, M. Gunzburger, G. Rozza (ed.): **Quantification of Uncertainty: Improving Efficiency and Technology - QUIET selected contributions**, Lecture  Notes  in  Computational  Science  and  Engineering Vol. 137,  Springer,  Cham, Chpt. 11, pp. 241-272, [doi](https://doi.org/10.1007/978-3-030-48721-8_11). ([github](https://github.com/BayesianLearning/PenduSMC), [.bib](https://doi.org/10.1007/978-3-030-48721-8_11), [arXiv](https://arxiv.org/abs/1807.08713)) 
 
 
-[10] Jonas Latz (2020): **On the Well-posedness of Bayesian Inverse Problems.** SIAM/ASA J. Uncertain. Quantif. 8(1), pp. 451–482, [doi](https://doi.org/10.1137/19M1247176). ([.bib](https://epubs.siam.org/action/showCitFormats?doi=10.1137%2F19M1247176), [arXiv](https://arxiv.org/abs/1902.10257))  
+[10] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2020):  **Multilevel Sequential Importance Sampling for Rare Event Estimation.** SIAM J. Sci. Comput. 42(4), pp. A2062–A2087, [doi](https://doi.org/10.1137/19M1289601). ([.bib](https://epubs.siam.org/action/showCitFormats?doi=10.1137%2F19M1289601), [arXiv](https://arxiv.org/abs/1909.07680))  
 
 
-[9] Ionuţ-Gabriel Farcaş, Jonas Latz, Elisabeth Ullmann, Tobias Neckel, Hans-Joachim Bungartz (2020): **Multilevel Adaptive Sparse Leja Approximations for Bayesian Inverse Problems.** SIAM J. Sci. Comput. 42(1), pp. A424–A451, [doi](https://doi.org/10.1137/19M1260293). ([.bib](https://epubs.siam.org/action/showCitFormats?doi=10.1137%2F19M1260293), [arXiv](https://arxiv.org/abs/1904.12204))  
+[9] Jonas Latz (2020): **On the Well-posedness of Bayesian Inverse Problems.** SIAM/ASA J. Uncertain. Quantif. 8(1), pp. 451–482, [doi](https://doi.org/10.1137/19M1247176). ([.bib](https://epubs.siam.org/action/showCitFormats?doi=10.1137%2F19M1247176), [arXiv](https://arxiv.org/abs/1902.10257))  
 
 
-[8] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019): **Bayesian parameter identification in Cahn-Hilliard models for biological growth.** SIAM/ASA J. Uncertain. Quantif. 7(2), pp. 526-552, [doi](https://doi.org/10.1137/18M1210034). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLLU19.bib), [arXiv](https://arxiv.org/abs/1805.03304))  
+[8] Ionuţ-Gabriel Farcaş, Jonas Latz, Elisabeth Ullmann, Tobias Neckel, Hans-Joachim Bungartz (2020): **Multilevel Adaptive Sparse Leja Approximations for Bayesian Inverse Problems.** SIAM J. Sci. Comput. 42(1), pp. A424–A451, [doi](https://doi.org/10.1137/19M1260293). ([.bib](https://epubs.siam.org/action/showCitFormats?doi=10.1137%2F19M1260293), [arXiv](https://arxiv.org/abs/1904.12204))  
 
 
-[7] Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann (2019): **Fast Sampling of parameterised Gaussian random fields.** Comput. Methods in Appl. Mech. Engrg. 348, pp. 978-1012, [doi](https://doi.org/10.1016/j.cma.2019.02.003). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LEU19.bib), [arXiv](https://arxiv.org/abs/1804.11157))  
+[7] Christian Kahle, Kei Fong Lam, Jonas Latz, Elisabeth Ullmann (2019): **Bayesian parameter identification in Cahn-Hilliard models for biological growth.** SIAM/ASA J. Uncertain. Quantif. 7(2), pp. 526-552, [doi](https://doi.org/10.1137/18M1210034). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLLU19.bib), [arXiv](https://arxiv.org/abs/1805.03304))  
 
 
-[6] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2018): **A practical example for the non-linear Bayesian filtering of model parameters.** *Accepted in* M. D’Elia, M. Gunzburger, G. Rozza (ed.): **Quantification of Uncertainty: Improving Efficiency and Technology - QUIET selected contributions**,  Lecture  Notes  in  Computational  Science  and  Engineering,  Springer,  Cham. ([github](https://github.com/BayesianLearning/PenduSMC), [.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/BLU18.bib), [arXiv](https://arxiv.org/abs/1807.08713)) 
+[6] Jonas Latz, Marvin Eisenberger, Elisabeth Ullmann (2019): **Fast Sampling of parameterised Gaussian random fields.** Comput. Methods in Appl. Mech. Engrg. 348, pp. 978-1012, [doi](https://doi.org/10.1016/j.cma.2019.02.003). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LEU19.bib), [arXiv](https://arxiv.org/abs/1804.11157))  
 
 
 [5] Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2018): **Multilevel Sequential² Monte Carlo for Bayesian Inverse Problems.**  J. Comput. Phys. 368, pp. 154-178, [doi](https://doi.org/10.1016/j.jcp.2018.04.014). ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LPU18.bib), [arXiv](https://arxiv.org/abs/1709.09763))  
