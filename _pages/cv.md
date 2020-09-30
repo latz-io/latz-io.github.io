@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Currently, I am a Research Associate in the [Department of Applied Mathematics and Theoretical Physics, University of Cambridge](http://www.damtp.cam.ac.uk).
+Currently, I am a Research Associate in the [Department of Applied Mathematics and Theoretical Physics, University of Cambridge](http://www.damtp.cam.ac.uk) and a Rokos Postdoctoral Research Associate at [Queens' College, Cambridge](https://www.queens.cam.ac.uk).
 
 ### Publications, talks, and achievements
 For lists of my publications and talks, please visit the dedicated pages: [Publications](/publications/) and [Meetings](/talks/), respectively.
