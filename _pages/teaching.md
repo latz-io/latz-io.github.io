@@ -8,7 +8,7 @@ author_profile: true
 ### Lectures
 
 ##### University of Cambridge, Department of Applied Mathematics and Theoretical Physics
- -  *Michaelmas term 2020:* [Inverse Problems](http://www.damtp.cam.ac.uk/research/cia/inverse-problems-michaelmas-2020) (with Yury Korolev; Part III of the mathematical tripos)
+ -  *Michaelmas term 2020:* [Inverse Problems](http://www.damtp.cam.ac.uk/research/cia/inverse-problems-michaelmas-2020) (with Yury Korolev; Part III of the Mathematical Tripos).
 
 ##### Technical University of Munich, Department of Mathematics
  -  *Summer term 2019:* "Lectures on Bayesian inverse problems" in [Numerical Methods for Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/NUMUQ19).  
