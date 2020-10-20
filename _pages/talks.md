@@ -9,7 +9,7 @@ author_profile: true
 *Due to the SARS-CoV-2 pandemic, I won't be travelling for quite a while. If interested in a chat, please contact me via [email](mailto:jl2160@cam.ac.uk).*
 
  - [Continuum Models and Optimisation for Deep Neural Networks](http://www.birs.ca/events/2021/5-day-workshops/21w5143), Banff International Research Station for Mathematical Innovation and Discovery, Alberta, Canada. *(2021-01-10 -- 2021-01-15)*
-
+ - [Onlineseminar Applied Algebra and Analysis](https://www.tu-braunschweig.de/en/iaa/groupseminar), Technische Universität Braunschweig, Germany. *(2020-12-11)*
 
 
 ## Past  
