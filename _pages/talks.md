@@ -10,6 +10,7 @@ author_profile: true
 
  - [Continuum Models and Optimisation for Deep Neural Networks](http://www.birs.ca/events/2021/5-day-workshops/21w5143), Banff International Research Station for Mathematical Innovation and Discovery, Alberta, Canada. *(2021-01-10 -- 2021-01-15)*
  - [Onlineseminar Applied Algebra and Analysis](https://www.tu-braunschweig.de/en/iaa/groupseminar), Technische Universität Braunschweig, Germany. *(2020-12-11)*
+ - [One World Seminar Series on the Mathematics of Machine Learning](https://www.oneworldml.org), online seminar. *(2020-11-04)*
 
 
 ## Past  
