@@ -9,19 +9,19 @@ Please find below a list of my publications. If you have issues accessing them, 
 
 ### Preprints
 
-[16] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2020):  **Error analysis for probabilities of rare events with approximate models.** *Under review.* ([.bib](https://ui.adsabs.harvard.edu/abs/2020arXiv200806368W/exportcitation), [arXiv](https://arxiv.org/abs/2008.06368))
+[16] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2020):  **Error analysis for probabilities of rare events with approximate models.** ([.bib](https://ui.adsabs.harvard.edu/abs/2020arXiv200806368W/exportcitation), [arXiv](https://arxiv.org/abs/2008.06368))
 
 
-[15] Jonas Latz (2020):  **Analysis of Stochastic Gradient Descent in Continuous Time.** *Under review.* ([.bib](https://ui.adsabs.harvard.edu/abs/2020arXiv200407177L/exportcitation), [arXiv](https://arxiv.org/abs/2004.07177))
+[15] Jonas Latz (2020):  **Analysis of Stochastic Gradient Descent in Continuous Time.**  ([.bib](https://ui.adsabs.harvard.edu/abs/2020arXiv200407177L/exportcitation), [arXiv](https://arxiv.org/abs/2004.07177))
 
 
-[14] Jonas Latz, Juan P. Madrigal-Cianci, Fabio Nobile, Raul Tempone (2020):  **Generalized Parallel Tempering on Bayesian Inverse Problems.** *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LMCNT20.bib), [arXiv](https://arxiv.org/abs/2003.03341))  
+[14] Jonas Latz, Juan P. Madrigal-Cianci, Fabio Nobile, Raul Tempone (2020):  **Generalized Parallel Tempering on Bayesian Inverse Problems.**  ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LMCNT20.bib), [arXiv](https://arxiv.org/abs/2003.03341))  
 
 
-[13] Daniel Kressner, Jonas Latz, Stefano Massei, Elisabeth Ullmann (2020):  **Certified and fast computations with shallow covariance kernels.** *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLMU20.bib), [arXiv](http://arxiv.org/abs/2001.09187))  
+[13] Daniel Kressner, Jonas Latz, Stefano Massei, Elisabeth Ullmann (2020):  **Certified and fast computations with shallow covariance kernels.** ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLMU20.bib), [arXiv](http://arxiv.org/abs/2001.09187))  
 
 
-[12] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2020): **Bayesian inference with subset simulation in varying dimensions applied to the Karhunen–Loève expansion.**  *Under review.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS20.bib), [full text](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2020_uribe_et_al_IJNME.pdf))  
+[12] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2020): **Bayesian inference with subset simulation in varying dimensions applied to the Karhunen–Loève expansion.**  ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS20.bib), [full text](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2020_uribe_et_al_IJNME.pdf))  
 
 ___
 ### Refereed journal articles and book chapters
