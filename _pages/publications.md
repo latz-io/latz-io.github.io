@@ -9,6 +9,10 @@ Please find below a list of my publications. If you have issues accessing them, 
 
 ### Preprints
 
+
+[17] Jeremy Budd, Yves van Gennip, Jonas Latz (2020):  **Classification and image processing with a semi-discrete scheme for fidelity forced Allen--Cahn on graphs.** ([arXiv](https://arxiv.org/abs/2010.14556))
+
+
 [16] Fabian Wagner, Jonas Latz, Iason Papaioannou, Elisabeth Ullmann (2020):  **Error analysis for probabilities of rare events with approximate models.** ([.bib](https://ui.adsabs.harvard.edu/abs/2020arXiv200806368W/exportcitation), [arXiv](https://arxiv.org/abs/2008.06368))
 
 
