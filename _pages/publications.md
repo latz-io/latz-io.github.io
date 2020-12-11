@@ -19,16 +19,16 @@ Please find below a list of my publications. If you have issues accessing them, 
 [15] Jonas Latz (2020):  **Analysis of Stochastic Gradient Descent in Continuous Time.**  ([.bib](https://ui.adsabs.harvard.edu/abs/2020arXiv200407177L/exportcitation), [arXiv](https://arxiv.org/abs/2004.07177))
 
 
-[14] Jonas Latz, Juan P. Madrigal-Cianci, Fabio Nobile, Raul Tempone (2020):  **Generalized Parallel Tempering on Bayesian Inverse Problems.**  ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LMCNT20.bib), [arXiv](https://arxiv.org/abs/2003.03341))  
+[14] Jonas Latz, Juan P. Madrigal-Cianci, Fabio Nobile, Raul Tempone (2020):  **Generalized Parallel Tempering on Bayesian Inverse Problems.**  ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/LMCNT20.bib), [arXiv](https://arxiv.org/abs/2003.03341))   
 
 
-[13] Daniel Kressner, Jonas Latz, Stefano Massei, Elisabeth Ullmann (2020):  **Certified and fast computations with shallow covariance kernels.** ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLMU20.bib), [arXiv](http://arxiv.org/abs/2001.09187))  
-
-
-[12] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2020): **Bayesian inference with subset simulation in varying dimensions applied to the Karhunen–Loève expansion.**  ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS20.bib), [full text](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2020_uribe_et_al_IJNME.pdf))  
+[13] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2020): **Bayesian inference with subset simulation in varying dimensions applied to the Karhunen–Loève expansion.**  ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/UPLBUS20.bib), [full text](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2020_uribe_et_al_IJNME.pdf))  
 
 ___
 ### Refereed journal articles and book chapters
+
+[12] Daniel Kressner, Jonas Latz, Stefano Massei, Elisabeth Ullmann (2020):  **Certified and fast computations with shallow covariance kernels.** Foundations of Data Science. *Accepted.* ([.bib](https://github.com/latz-io/latz-io.github.io/blob/master/_publications/bibtex/KLMU20.bib), [arXiv](http://arxiv.org/abs/2001.09187)) 
+
 
 [11] Matthieu Bulté, Jonas Latz, Elisabeth Ullmann (2020): **A practical example for the non-linear Bayesian filtering of model parameters.** *in* M. D’Elia, M. Gunzburger, G. Rozza (ed.): **Quantification of Uncertainty: Improving Efficiency and Technology - QUIET selected contributions**, Lecture  Notes  in  Computational  Science  and  Engineering Vol. 137,  Springer,  Cham, Chpt. 11, pp. 241-272, [doi](https://doi.org/10.1007/978-3-030-48721-8_11). ([github](https://github.com/BayesianLearning/PenduSMC), [.bib](https://doi.org/10.1007/978-3-030-48721-8_11), [arXiv](https://arxiv.org/abs/1807.08713)) 
 
