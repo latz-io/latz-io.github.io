@@ -9,6 +9,7 @@ author_profile: true
 *Due to the SARS-CoV-2 pandemic, I won't be travelling for quite a while. If interested in a chat, please contact me via [email](mailto:jl2160@cam.ac.uk).*
 
  -  Talk & Organisation of a Minisymposium (with Ionuț-Gabriel Farcaș) @ [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/CM/Main/cse21), online. *(2021-03-01 -- 2021-03-05)*  
+ 
 
 ## Past  
 A map of all the meetings I have participated in:
