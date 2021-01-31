@@ -22,6 +22,7 @@ author_profile: true
 ### Tutorials/Seminars
 
 ##### University of Cambridge, Department of Applied Mathematics and Theoretical Physics
+ -  *Lent term 2021:* Supervision in Numerical Analysis (Part IB of the Mathematical Tripos; Queens' College)
  -  *Lent term 2020:* Supervision in From Computation to Information
 
 ##### Technical University of Munich, Department of Mathematics
