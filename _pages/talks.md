@@ -8,16 +8,17 @@ author_profile: true
 ## Upcoming
 *Due to the SARS-CoV-2 pandemic, I won't be travelling for quite a while. If interested in a chat, please contact me via [email](mailto:jl2160@cam.ac.uk).*
 
+
  -  Talk & Organisation of a Minisymposium (with Ionuț-Gabriel Farcaș) @ [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/CM/Main/cse21), online. *(2021-03-01 -- 2021-03-05)*  
- 
+ -  Talk @ [Seminar, Centre for Analysis, Scientific Computing and Applications](https://www.win.tue.nl/casa/), Eindhoven University of Technology (TU/e), Netherlands. *(2021-03-24)*
 
 ## Past  
 A map of all the meetings I have participated in:
 <iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/u/1/embed?mid=1VSuXnCjO51FtpZcME5OrwY9JOcrmuvcq"  ></iframe>
 
 ### 2020
- - [Online Seminar Applied Algebra and Analysis](https://www.tu-braunschweig.de/en/iaa/groupseminar), Technische Universität Braunschweig and Universität Osnabrück, Germany. *(2020-12-11)*
- - [One World Seminar Series on the Mathematics of Machine Learning](https://www.oneworldml.org), online seminar. *([Slides](https://drive.google.com/file/d/1x5XvXBjwxaVVx32nYv4XVZUJqw5aLuR6/view?usp=sharing), [Video](https://youtu.be/72KltfT1mAI), 2020-11-04)*
+ - Talk @ [Online Seminar Applied Algebra and Analysis](https://www.tu-braunschweig.de/en/iaa/groupseminar), Technische Universität Braunschweig and Universität Osnabrück, Germany. *(2020-12-11)*
+ - Talk @ [One World Seminar Series on the Mathematics of Machine Learning](https://www.oneworldml.org), online seminar. *([Slides](https://drive.google.com/file/d/1x5XvXBjwxaVVx32nYv4XVZUJqw5aLuR6/view?usp=sharing), [Video](https://youtu.be/72KltfT1mAI), 2020-11-04)*
  -  Talk & Organisation of a Minisymposium (with Aretha Teckentrup) @ [14th International Conference in Monte Carlo & Quasi-Monte Carlo Methods in Scientific Computing (MCQMC 2020)](https://mcqmc20.web.ox.ac.uk), online conference.  *([Slides](https://drive.google.com/file/d/1svTl6-JRsetLR3qPBocHiPZLLNCkL8h7/edit), [Video](https://www.youtube.com/watch?v=BgZN0NQAlAU), [Minisymposium](https://www.youtube.com/playlist?list=PLHldTeIWYcvP2PUNZ9uCmOeSt55ix-UNS), 2020-08-10 -- 2020-08-14)* 
  - Talk @ [SIAM Conference on Mathematics of Data Science (MDS20)](https://www.siam.org/conferences/cm/conference/mds20), online conference. *([Slides](2020/talk_SIAM_MDS_2020_handout.pdf), 2020-05-04 -- 2020-06-30)*
  -  Participation @ [Online Workshop Multilevel and multifidelity sampling methods in UQ for PDEs](https://www.esi.ac.at/events/e398/), Erwin Schrödinger International Institute for Mathematics and Physics, Vienna, Austria. *(2020-05-04 -- 2020-05-05)*
