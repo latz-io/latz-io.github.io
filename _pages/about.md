@@ -14,6 +14,8 @@ Currently, I am a Research Associate in the [Department of Applied Mathematics a
 
 The research I am involved in is at the interface of numerical analysis, computational science, probability theory, and statistics. It focuses on methods that can be used to blend mathematical models with observational data.  
 
+I co-organise the fortnightly [Online Reading Group Uncertainty Quantification](https://www-m2.ma.tum.de/bin/view/Allgemeines/RGUQ). Please [email me](mailto:jl2160@cam.ac.uk), if you would like to participate.
+
 
  <table style="width:100%; border: none;" border="0" cellspacing="0" cellpadding="0">
   <tr>
