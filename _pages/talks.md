@@ -11,6 +11,7 @@ author_profile: true
 
  -  Talk & Organisation of a Minisymposium (with Ionuț-Gabriel Farcaș) @ [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/CM/Main/cse21), online. *(2021-03-01 -- 2021-03-05)*  
  -  Talk @ [Seminar, Centre for Analysis, Scientific Computing and Applications](https://www.win.tue.nl/casa/), Eindhoven University of Technology (TU/e), Netherlands. *(2021-03-24)*
+ -  Talk @ [Seminar Computational Uncertainty Quantification for Inverse Problems](https://www.compute.dtu.dk/english/cuqi), Technical University of Denmark (DTU), Denmark. *(2021-05-21)*
 
 ## Past  
 A map of all the meetings I have participated in:
