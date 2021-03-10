@@ -9,13 +9,17 @@ author_profile: true
 *Due to the SARS-CoV-2 pandemic, I won't be travelling for quite a while. If interested in a chat, please contact me via [email](mailto:jl2160@cam.ac.uk).*
 
 
- -  Talk & Organisation of a Minisymposium (with Ionuț-Gabriel Farcaș) @ [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/CM/Main/cse21), online. *(2021-03-01 -- 2021-03-05)*  
+ 
  -  Talk @ [Seminar, Centre for Analysis, Scientific Computing and Applications](https://www.win.tue.nl/casa/), Eindhoven University of Technology (TU/e), Netherlands. *(2021-03-24)*
+ -  Talk @ [HKBU Virtual Conference on Mathematics, Statistics and Data Science](https://sites.google.com/hkbu.edu.hk/hkbu-mathstat-data/home), Hong Kong Baptist University (HKBU). *(2021-04-19 -- 2021-04-19)*
  -  Talk @ [Seminar Computational Uncertainty Quantification for Inverse Problems](https://www.compute.dtu.dk/english/cuqi), Technical University of Denmark (DTU), Denmark. *(2021-05-21)*
 
 ## Past  
 A map of all the meetings I have participated in:
 <iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/u/1/embed?mid=1VSuXnCjO51FtpZcME5OrwY9JOcrmuvcq"  ></iframe>
+
+### 2021
+ -  Talk & Organisation of a Minisymposium (with Ionuț-Gabriel Farcaș) @ [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/CM/Main/cse21), online. *(2021-03-01 -- 2021-03-05)* 
 
 ### 2020
  - Talk @ [Online Seminar Applied Algebra and Analysis](https://www.tu-braunschweig.de/en/iaa/groupseminar), Technische Universität Braunschweig and Universität Osnabrück, Germany. *(2020-12-11)*
