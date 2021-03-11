@@ -11,7 +11,7 @@ author_profile: true
 
  
  -  Talk @ [Seminar, Centre for Analysis, Scientific Computing and Applications](https://www.win.tue.nl/casa/), Eindhoven University of Technology (TU/e), Netherlands. *(2021-03-24)*
- -  Talk @ [HKBU Virtual Conference on Mathematics, Statistics and Data Science](https://sites.google.com/hkbu.edu.hk/hkbu-mathstat-data/home), Hong Kong Baptist University (HKBU). *(2021-04-19 -- 2021-04-19)*
+ -  Talk @ [HKBU Virtual Conference on Mathematics, Statistics and Data Science](https://sites.google.com/hkbu.edu.hk/hkbu-mathstat-data/home), Hong Kong Baptist University (HKBU). *(2021-04-19 -- 2021-04-23)*
  -  Talk @ [Seminar Computational Uncertainty Quantification for Inverse Problems](https://www.compute.dtu.dk/english/cuqi), Technical University of Denmark (DTU), Denmark. *(2021-05-21)*
 
 ## Past  
